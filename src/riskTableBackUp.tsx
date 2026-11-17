@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+// import React, { useState } from "react";
 
 type RiskRow = {
   id:number;
@@ -91,12 +91,12 @@ try {
     );
   };
 
-const countUniqueFarms = (data: RiskRow[], level: string) => {
-  const farms = data
-    .filter((r) => r.risk_level === level)
-    .map((r) => r.id); // ✅ use farm id
-  return new Set(farms).size; // ✅ ensures uniqueness
-};  
+// const countUniqueFarms = (data: RiskRow[], level: string) => {
+  // const farms = data
+    // .filter((r) => r.risk_level === level)
+    // .map((r) => r.id); // ✅ use farm id
+  // return new Set(farms).size; // ✅ ensures uniqueness
+// };  
 
 
  const summaryCounts = {

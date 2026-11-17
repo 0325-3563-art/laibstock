@@ -198,8 +198,8 @@ function FileUpload() {
   const [uploading, setUploading] = useState(false);
   const [addMsg, setAddMsg] = useState<Msg>(null);
   const [loginMsg, setLoginMsg] = useState<Msg>(null);
-  const [searching, setSearching] = useState(false);
-  const [filterMsg, setFilterMsg] = useState<Msg>(null);
+  // const [searching, setSearching] = useState(false);
+  // const [filterMsg, setFilterMsg] = useState<Msg>(null);
 
   // Helper to reload farmers from DB
   const refreshFarmers = async () => {

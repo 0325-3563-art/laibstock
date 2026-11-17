@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom";
 import WebHeader from "./header";
 import DiseaseReporting from "./diseaseReporting";
