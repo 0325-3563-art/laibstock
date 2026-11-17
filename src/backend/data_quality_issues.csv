@@ -1,0 +1,24 @@
+id,municipality,barangay,lat,lon,issue
+512,Tiaong,San Juan,13.89394,13.36675,missing/impossible coordinates
+644,Candelaria,Masin,13.9382,13.9382,missing/impossible coordinates
+67,Tiaong,Behia,13.895261,121.895261,suspicious: >25 km from the median farm location
+68,Tiaong,Behia,13.895261,121.895261,suspicious: >25 km from the median farm location
+69,Tiaong,Behia,13.895261,121.895261,suspicious: >25 km from the median farm location
+72,Tiaong,Behia,13.895261,121.895261,suspicious: >25 km from the median farm location
+73,Tiaong,Behia,13.895261,121.895261,suspicious: >25 km from the median farm location
+74,Tiaong,Behia,13.895261,121.895261,suspicious: >25 km from the median farm location
+80,Tiaong,Behia,13.895261,121.895261,suspicious: >25 km from the median farm location
+83,Tiaong,Behia,13.895261,121.895261,suspicious: >25 km from the median farm location
+84,Tiaong,Behia,13.909518,121.909518,suspicious: >25 km from the median farm location
+85,Tiaong,Behia,13.895261,121.895261,suspicious: >25 km from the median farm location
+187,Tiaong,Cabatang,13.5827,121.286,suspicious: >25 km from the median farm location
+209,Tiaong,Del Rosario,13.504984,121.23992,suspicious: >25 km from the median farm location
+315,Tiaong,Lusacan,13.346305,121.950342,suspicious: >25 km from the median farm location
+563,Tiaong,Tagbakin,13.91868,121.91868,suspicious: >25 km from the median farm location
+583,Tiaong,Tamisian,13.30608,121.93178,suspicious: >25 km from the median farm location
+593,Tiaong,Tamisian,13.93608,121.93608,suspicious: >25 km from the median farm location
+634,Tiaong,Talisay,13.15277,121.171495,suspicious: >25 km from the median farm location
+635,Tiaong,Talisay,13.15277,121.273495,suspicious: >25 km from the median farm location
+636,Tiaong,Talisay,13.577031,122.3131967,suspicious: >25 km from the median farm location
+637,Tiaong,Talisay,13.445612,121.058702,suspicious: >25 km from the median farm location
+638,Tiaong,Talisay,13.445612,121.058702,suspicious: >25 km from the median farm location

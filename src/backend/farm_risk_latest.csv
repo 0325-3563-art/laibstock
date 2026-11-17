@@ -1,0 +1,638 @@
+id,municipality,barangay,latitude,longitude,nearest_case_km,rf_probability,risk_score,risk_level,zoning,zone_color,recommended_action,confirmed_positive,coord_valid,municipality_positive_farms,municipality_outbreak,method
+1,Tiaong,Anastacia,13.964924,121.350532,0.0,0.0762,93.9,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+2,Tiaong,Anastacia,13.98449,121.348266,2.18,0.0065,55.3,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+3,Tiaong,Anastacia,13.96986,121.353661,0.64,0.0484,89.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+4,Tiaong,Anastacia,13.964924,121.350532,0.0,0.0626,91.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+5,Tiaong,Anastacia,13.964924,121.350532,0.0,0.0626,91.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+6,Tiaong,Anastacia,13.965879,121.349796,0.13,0.055,90.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+7,Tiaong,Anastacia,13.964924,121.350532,0.0,0.0626,91.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+8,Tiaong,Anastacia,13.964924,121.350532,0.0,0.0795,94.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+9,Tiaong,Anastacia,13.964493,121.356062,0.6,0.0358,87.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+10,Tiaong,Anastacia,13.966628,121.358697,0.9,0.0164,81.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+11,Tiaong,Anastacia,13.967618,121.354291,0.5,0.0262,85.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+12,Tiaong,Anastacia,13.964924,121.350532,0.0,,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",1,1,27,1,supervised
+13,Tiaong,Anastacia,13.964924,121.350532,0.0,0.0762,93.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+14,Tiaong,Anastacia,13.964235,121.354467,0.43,0.0262,85.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+15,Tiaong,Anastacia,13.965904,121.353015,0.29,0.0097,80.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+16,Tiaong,Anastacia,13.964924,121.350532,0.0,0.0626,91.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+17,Tiaong,Anastacia,13.964924,121.350532,0.0,0.0728,93.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+18,Tiaong,Anastacia,13.964924,121.350532,0.0,0.0594,91.1,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+19,Tiaong,Anastacia,13.964924,121.350532,0.0,0.0594,91.1,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+20,Tiaong,Anastacia,13.966645,121.360802,1.13,0.0033,54.5,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+21,Tiaong,Anastacia,13.964924,121.350532,0.0,0.0696,93.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+22,Tiaong,Anastacia,13.962955,121.345104,0.0,,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",1,1,27,1,supervised
+23,Tiaong,Anastacia,13.963089,121.344926,0.02,0.0961,96.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+24,Tiaong,Anastacia,13.963513,121.342659,0.2,0.0518,90.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+25,Tiaong,Anastacia,13.963863,121.344864,0.1,0.057,90.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+26,Tiaong,Anastacia,13.969702,121.353314,0.61,0.013,80.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+27,Tiaong,Anastacia,13.96986,121.353661,0.64,0.0255,84.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+28,Tiaong,Anastacia,13.974004,121.359284,1.38,0.0,53.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+29,Tiaong,Anastacia,13.964924,121.350532,0.0,0.0889,94.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+30,Tiaong,Anastacia,13.964924,121.350532,0.0,0.0762,93.9,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+31,Tiaong,Anastacia,13.964924,121.350532,0.0,0.053,90.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+32,Tiaong,Anastacia,13.976788,121.359609,1.64,0.0,53.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+33,Tiaong,Anastacia,13.974478,121.348731,1.07,0.0065,55.1,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+34,Tiaong,Ayusan 1,13.951524,121.307157,1.15,0.0422,67.3,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+35,Tiaong,Ayusan 1,13.9431656,121.3031371,0.3,0.0327,86.7,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+36,Tiaong,Ayusan 1,13.942018,121.303246,0.22,0.0392,87.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+37,Tiaong,Ayusan 1,13.9431967,121.3039529,0.25,0.0327,86.7,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+38,Tiaong,Ayusan 1,13.9411506,121.3067478,0.18,0.0848,94.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+39,Tiaong,Ayusan 1,13.9439848,121.3028783,0.39,0.0295,85.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+40,Tiaong,Ayusan 1,13.951524,121.307157,1.15,0.0422,67.3,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+41,Tiaong,Ayusan 1,13.9428186,121.304991,0.17,0.0518,90.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+42,Tiaong,Ayusan 1,13.951524,121.307157,1.15,0.0455,68.3,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+43,Tiaong,Ayusan 1,13.951524,121.307157,1.15,0.0422,67.3,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+44,Tiaong,Ayusan 1,13.955671,121.3109073,1.65,0.0295,63.8,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+45,Tiaong,Ayusan 1,13.9571403,121.299809,1.85,0.0328,65.5,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+46,Tiaong,Ayusan 1,13.955436,121.310587,1.67,0.0328,65.5,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+47,Tiaong,Ayusan 1,13.9533659,121.3121461,1.47,0.0422,67.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+48,Tiaong,Ayusan 1,13.9532825,121.3120726,1.48,0.0356,66.2,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+49,Tiaong,Ayusan 1,13.951524,121.307157,1.15,0.0847,74.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+50,Tiaong,Ayusan 2,13.94122,121.29082,1.55,0.0979,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+51,Tiaong,Ayusan 2,13.94122,121.29082,1.55,0.0424,67.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+52,Tiaong,Ayusan 2,13.94122,121.29082,1.55,0.0424,67.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+53,Tiaong,Ayusan 2,13.94122,121.29082,1.55,0.0424,67.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+54,Tiaong,Ayusan 2,13.94122,121.29082,1.55,0.0553,70.8,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+55,Tiaong,Ayusan 2,13.940488,121.294387,1.16,0.0782,74.5,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+56,Tiaong,Ayusan 2,13.940488,121.294387,1.16,0.0391,66.8,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+57,Tiaong,Ayusan 2,13.94122,121.29082,1.55,0.0424,67.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+58,Tiaong,Ayusan 2,13.94122,121.29082,1.55,0.0424,67.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+59,Tiaong,Ayusan 2,13.9457883,121.2941672,1.28,0.0262,62.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+60,Tiaong,Ayusan 2,13.9476068,121.2889781,1.88,0.0678,73.3,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+61,Tiaong,Ayusan 2,13.941173,121.294083,1.19,0.0295,63.8,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+62,Tiaong,Aquino,13.97221,121.29292,3.66,0.0587,71.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+63,Tiaong,Aquino,13.97221,121.29292,3.66,0.039,66.7,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+64,Tiaong,Aquino,13.97221,121.29292,3.66,0.0587,71.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+65,Tiaong,Aquino,13.97221,121.29292,3.66,0.039,66.7,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+66,Tiaong,Aquino,13.9705979,121.2747911,4.61,0.0325,65.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+67,Tiaong,Behia,13.895261,121.895261,,,,Unverified,Unverified (check coordinates),Gray,"Verify the farm's latitude/longitude, then re-run the assessment",0,0,27,1,supervised
+68,Tiaong,Behia,13.895261,121.895261,,,,Unverified,Unverified (check coordinates),Gray,"Verify the farm's latitude/longitude, then re-run the assessment",0,0,27,1,supervised
+69,Tiaong,Behia,13.895261,121.895261,,,,Unverified,Unverified (check coordinates),Gray,"Verify the farm's latitude/longitude, then re-run the assessment",0,0,27,1,supervised
+70,Tiaong,Behia,13.912334,121.333782,0.0,,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",1,1,27,1,supervised
+71,Tiaong,Behia,13.8968026,121.3348734,1.72,0.0489,68.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+72,Tiaong,Behia,13.895261,121.895261,,,,Unverified,Unverified (check coordinates),Gray,"Verify the farm's latitude/longitude, then re-run the assessment",0,0,27,1,supervised
+73,Tiaong,Behia,13.895261,121.895261,,,,Unverified,Unverified (check coordinates),Gray,"Verify the farm's latitude/longitude, then re-run the assessment",0,0,27,1,supervised
+74,Tiaong,Behia,13.895261,121.895261,,,,Unverified,Unverified (check coordinates),Gray,"Verify the farm's latitude/longitude, then re-run the assessment",0,0,27,1,supervised
+75,Tiaong,Behia,13.912334,121.333782,0.0,0.1933,99.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+76,Tiaong,Behia,13.894044,121.326698,2.16,0.0711,73.5,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+77,Tiaong,Behia,13.8984391,121.336573,1.57,0.0491,68.8,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+78,Tiaong,Behia,13.904462,121.330038,0.96,0.0427,88.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+79,Tiaong,Behia,13.9083421,121.3300393,0.6,0.0425,88.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+80,Tiaong,Behia,13.895261,121.895261,,,,Unverified,Unverified (check coordinates),Gray,"Verify the farm's latitude/longitude, then re-run the assessment",0,0,27,1,supervised
+81,Tiaong,Behia,13.907235,121.330428,0.67,0.0359,87.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+82,Tiaong,Behia,13.911898,121.335972,0.24,0.0521,90.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+83,Tiaong,Behia,13.895261,121.895261,,,,Unverified,Unverified (check coordinates),Gray,"Verify the farm's latitude/longitude, then re-run the assessment",0,0,27,1,supervised
+84,Tiaong,Behia,13.909518,121.909518,,,,Unverified,Unverified (check coordinates),Gray,"Verify the farm's latitude/longitude, then re-run the assessment",0,0,27,1,supervised
+85,Tiaong,Behia,13.895261,121.895261,,,,Unverified,Unverified (check coordinates),Gray,"Verify the farm's latitude/longitude, then re-run the assessment",0,0,27,1,supervised
+86,Tiaong,Behia,13.894433,121.326537,2.13,0.0908,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+87,Tiaong,Behia,13.894511,121.326752,2.11,0.0711,73.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+88,Tiaong,Bukal,13.923378,121.288155,2.7,0.0321,64.8,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+89,Tiaong,Bukal,13.925269,121.293589,2.17,0.0226,61.7,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+90,Tiaong,Bukal,13.926166,121.290263,2.32,0.0191,58.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+91,Tiaong,Bukal,13.923378,121.288155,2.7,0.0354,65.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+92,Tiaong,Bukal,13.923378,121.288155,2.7,0.0321,64.8,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+93,Tiaong,Bukal,13.930068,121.21161,10.18,0.0065,10.2,Low,Protected/Free Zone,Dark Green,"Normal movement allowed, continued monitoring",0,1,27,1,supervised
+94,Tiaong,Bukal,13.930341,121.295069,1.63,0.0131,57.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+95,Tiaong,Bukal,13.923378,121.288155,2.7,0.0321,64.8,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+96,Tiaong,Bukal,13.933258,121.292091,1.66,0.0295,63.7,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+97,Tiaong,Bukal,13.923378,121.288155,2.7,0.0321,64.8,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+98,Tiaong,Bukal,13.923378,121.288155,2.7,0.0321,64.8,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+99,Tiaong,Bukal,13.923378,121.288155,2.7,0.0321,64.8,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+100,Tiaong,Bukal,13.927783,121.289475,2.26,0.0289,63.2,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+101,Tiaong,Bukal,13.923378,121.288155,2.7,0.0321,64.8,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+102,Tiaong,Bukal,13.923378,121.288155,2.7,0.0386,66.5,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+103,Tiaong,Bukal,13.923378,121.288155,2.7,0.0747,74.3,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+104,Tiaong,Bukal,13.918632,121.278653,3.8,0.0164,58.8,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+105,Tiaong,Bukal,13.923378,121.288155,2.7,0.0321,64.8,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+106,Tiaong,Bukal,13.923378,121.288155,2.7,0.0354,65.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+107,Tiaong,Bukal,13.923378,121.288155,2.7,0.0321,64.8,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+108,Tiaong,Bukal,13.923378,121.288155,2.7,0.0321,64.8,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+109,Tiaong,Bukal,13.923378,121.288155,2.7,0.0354,65.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+110,Tiaong,Bukal,13.923378,121.288155,2.7,0.0354,65.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+111,Tiaong,Bukal,13.923378,121.288155,2.7,0.0321,64.8,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+112,Tiaong,Bukal,13.923378,121.288155,2.7,0.0321,64.8,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+113,Tiaong,Bula,13.92881,121.319717,1.16,0.0454,68.2,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+114,Tiaong,Bula,13.92881,121.319717,1.16,0.0225,61.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+115,Tiaong,Bula,13.92881,121.319717,1.16,0.016,58.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+116,Tiaong,Bula,13.92881,121.319717,1.16,0.016,58.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+117,Tiaong,Bula,13.9281386,121.3136429,0.93,0.0065,79.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+118,Tiaong,Bula,13.9257176,121.3099315,1.22,0.0098,57.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+119,Tiaong,Bula,13.9274695,121.3137847,1.01,0.0066,55.5,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+120,Tiaong,Bula,13.9275084,121.3050427,1.28,0.0099,57.2,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+121,Tiaong,Bula,13.9293348,121.305552,1.09,0.0097,56.8,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+122,Tiaong,Bula,13.92881,121.319717,1.16,0.0225,61.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+123,Tiaong,Bula,13.9270047,121.3049688,1.32,0.0099,57.2,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+124,Tiaong,Bula,13.9294475,121.305768,1.06,0.0097,56.8,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+125,Tiaong,Bula,13.92881,121.319717,1.16,0.016,58.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+126,Tiaong,Bula,13.9265716,121.305599,1.32,0.0099,57.2,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+127,Tiaong,Bula,13.9266952,121.3035005,1.45,0.0131,58.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+128,Tiaong,Bula,13.9265277,121.3033997,1.47,0.0131,58.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+129,Tiaong,Bula,13.9493973,121.3193612,0.73,0.0421,88.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+130,Tiaong,Bula,13.9249162,121.2972982,2.0,0.016,58.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+131,Tiaong,Bula,13.92881,121.319717,1.16,0.016,58.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+132,Tiaong,Bula,13.92881,121.319717,1.16,0.0193,59.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+133,Tiaong,Bula,13.9252882,121.2978027,1.94,0.0193,59.2,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+134,Tiaong,Bula,13.92881,121.319717,1.16,0.0193,59.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+135,Tiaong,Bula,13.92881,121.319717,1.16,0.0225,61.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+136,Tiaong,Bula,13.9251349,121.2971642,1.98,0.016,58.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+137,Tiaong,Bula,13.92881,121.319717,1.16,0.0193,59.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+138,Tiaong,Bulakin,13.9726987,121.33613,0.95,0.039,87.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+139,Tiaong,Bulakin,13.9734003,121.3355989,0.96,0.0744,93.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+140,Tiaong,Bulakin,13.97497,121.337445,1.22,0.0294,63.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+141,Tiaong,Bulakin,13.9734003,121.339004,1.25,0.0196,59.7,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+142,Tiaong,Bulakin,13.9734003,121.3355989,0.96,0.0516,90.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+143,Tiaong,Bulakin,13.9734003,121.3355989,0.96,0.081,94.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+144,Tiaong,Bulakin,13.9734003,121.3355989,0.96,0.0647,91.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+145,Tiaong,Bulakin,13.9734003,121.3355989,0.96,0.0648,92.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+146,Tiaong,Cabatang,13.97448,121.38791,0.33,0.0315,85.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+147,Tiaong,Cabatang,13.976564,121.397567,0.03,0.0582,91.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+148,Tiaong,Cabatang,13.977124,121.39771,0.03,0.0629,91.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+149,Tiaong,Cabatang,13.977052,121.396791,0.09,0.0466,88.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+150,Tiaong,Cabatang,13.97343,121.384889,0.23,0.0162,81.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+151,Tiaong,Cabatang,13.97088,121.37831,0.87,0.0129,80.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+152,Tiaong,Cabatang,13.97448,121.38791,0.33,0.0187,82.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+153,Tiaong,Cabatang,13.968,121.36649,1.76,0.0032,54.2,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+154,Tiaong,Cabatang,13.96817,121.36611,1.72,0.0032,54.2,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+155,Tiaong,Cabatang,13.97448,121.38791,0.33,0.0219,83.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+156,Tiaong,Cabatang,13.977052,121.396791,0.09,0.0466,88.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+157,Tiaong,Cabatang,13.97609,121.39691,0.08,0.0797,94.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+158,Tiaong,Cabatang,13.977124,121.39771,0.03,0.0631,91.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+159,Tiaong,Cabatang,13.96611,121.36604,1.68,0.0159,58.1,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+160,Tiaong,Cabatang,13.97195,121.37983,0.7,0.0064,79.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+161,Tiaong,Cabatang,13.977727,121.39007,0.73,0.0066,80.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+162,Tiaong,Cabatang,13.97448,121.38791,0.33,0.0219,83.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+163,Tiaong,Cabatang,13.97448,121.38791,0.33,0.0382,87.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+164,Tiaong,Cabatang,13.97533,121.38681,0.38,0.0162,81.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+165,Tiaong,Cabatang,13.97448,121.38791,0.33,0.0445,88.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+166,Tiaong,Cabatang,13.97448,121.38791,0.33,0.0218,82.9,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+167,Tiaong,Cabatang,13.96527,121.36687,1.77,0.0033,54.3,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+168,Tiaong,Cabatang,13.971918,121.386292,0.0,,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",1,1,27,1,supervised
+169,Tiaong,Cabatang,13.975671,121.384973,0.44,0.0197,82.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+170,Tiaong,Cabatang,13.974218,121.385534,0.27,0.0228,83.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+171,Tiaong,Cabatang,13.972,121.377825,0.91,0.0032,79.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+172,Tiaong,Cabatang,13.97525,121.38728,0.38,0.0228,83.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+173,Tiaong,Cabatang,13.96925,121.36759,1.9,0.0257,62.3,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+174,Tiaong,Cabatang,13.97448,121.38791,0.33,0.0219,83.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+175,Tiaong,Cabatang,13.96726,121.37137,1.69,0.0,53.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+176,Tiaong,Cabatang,13.97448,121.38791,0.33,0.0187,82.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+177,Tiaong,Cabatang,13.96226,121.36009,1.07,0.0126,57.5,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+178,Tiaong,Cabatang,13.96234,121.36026,1.09,0.0064,55.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+179,Tiaong,Cabatang,13.96233,121.35998,1.06,0.0126,57.5,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+180,Tiaong,Cabatang,13.97448,121.38791,0.33,0.0187,82.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+181,Tiaong,Cabatang,13.9715,121.38896,0.29,0.023,84.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+182,Tiaong,Cabatang,13.97448,121.38791,0.33,0.035,87.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+183,Tiaong,Cabatang,13.97866,121.39001,0.78,0.0258,84.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+184,Tiaong,Cabatang,13.96548,121.3688,1.97,0.0061,54.8,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+185,Tiaong,Cabatang,13.96736,121.3647,1.55,0.0229,61.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+186,Tiaong,Cabatang,13.97448,121.38791,0.33,0.0218,82.9,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+187,Tiaong,Cabatang,13.5827,121.286,,,,Unverified,Unverified (check coordinates),Gray,"Verify the farm's latitude/longitude, then re-run the assessment",0,0,27,1,supervised
+188,Tiaong,Cabatang,13.974835,121.387359,0.34,0.0228,83.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+189,Tiaong,Cabatang,13.96611,121.36604,1.68,0.0159,58.1,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+190,Tiaong,Cabay,13.876177,121.369549,0.0,,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",1,1,27,1,supervised
+191,Tiaong,Cabay,13.8671611,121.381887,0.55,0.0131,81.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+192,Tiaong,Cabay,13.882091,121.381552,1.45,0.0359,66.3,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+193,Tiaong,Cabay,13.876177,121.369549,0.0,0.0648,92.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+194,Tiaong,Cabay,13.8741,121.37258,0.4,0.0195,82.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+195,Tiaong,Cabay,13.876177,121.369549,0.0,0.1305,97.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+196,Tiaong,Cabay,13.8679,121.37854,0.82,0.0487,89.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+197,Tiaong,Cabay,13.876177,121.369549,0.0,0.1336,98.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+198,Tiaong,Cabay,13.874723,121.370348,0.18,0.0421,88.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+199,Tiaong,Cabay,13.88307,121.37327,0.86,0.0294,85.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+200,Tiaong,Del Rosario,13.8635619,121.3881632,0.48,0.0686,93.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+201,Tiaong,Del Rosario,13.8471997,121.395465,0.0,,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",1,1,27,1,supervised
+202,Tiaong,Del Rosario,13.862553,121.38383,0.0,,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",1,1,27,1,supervised
+203,Tiaong,Del Rosario,13.852715,121.394698,0.62,0.0188,82.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+204,Tiaong,Del Rosario,13.861626,121.390337,0.71,0.0261,84.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+205,Tiaong,Del Rosario,13.847886,121.390383,0.0,,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",1,1,27,1,supervised
+206,Tiaong,Del Rosario,13.851224,121.3945834,0.46,0.0357,87.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+207,Tiaong,Del Rosario,13.85359,121.39372,0.73,0.0184,81.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+208,Tiaong,Del Rosario,13.847479,121.3972201,0.19,0.0163,81.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+209,Tiaong,Del Rosario,13.504984,121.23992,,,,Unverified,Unverified (check coordinates),Gray,"Verify the farm's latitude/longitude, then re-run the assessment",0,0,27,1,supervised
+210,Tiaong,Del Rosario,13.853601,121.384809,0.87,0.0657,92.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+211,Tiaong,Lagalag,13.943822,121.374722,0.0,0.2531,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+212,Tiaong,Lagalag,13.942621,121.375583,0.14,0.1189,97.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+213,Tiaong,Lagalag,13.943822,121.374722,0.0,0.371,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+214,Tiaong,Lagalag,13.947993,121.375479,0.23,0.1306,98.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+215,Tiaong,Lagalag,13.943822,121.374722,0.0,0.429,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+216,Tiaong,Lagalag,13.942525,121.374256,0.0,,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",1,1,27,1,supervised
+217,Tiaong,Lagalag,13.943845,121.364647,1.05,0.0796,74.5,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+218,Tiaong,Lagalag,13.942077,121.375408,0.13,0.1355,98.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+219,Tiaong,Lagalag,13.939986,121.37621,0.35,0.0971,96.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+220,Tiaong,Lagalag,13.940363,121.382657,0.0,0.5195,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+221,Tiaong,Lagalag,13.940363,121.38265,0.0,,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",1,1,27,1,supervised
+222,Tiaong,Lagalag,13.940363,121.38265,0.0,,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",1,1,27,1,supervised
+223,Tiaong,Lagalag,13.940056,121.376158,0.34,0.0971,96.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+224,Tiaong,Lagalag,13.95857,121.395797,0.36,0.4275,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+225,Tiaong,Lagalag,13.958408,121.395499,0.34,0.4599,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+226,Tiaong,Lagalag,13.958408,121.395499,0.34,0.2572,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+227,Tiaong,Lagalag,13.946033,121.38725,0.8,0.0781,94.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+228,Tiaong,Lagalag,13.955796,121.394189,0.13,0.1822,99.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+229,Tiaong,Lagalag,13.955355,121.395372,0.0,0.5362,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+230,Tiaong,Lagalag,13.943822,121.374722,0.0,0.371,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+231,Tiaong,Lagalag,13.958575,121.395798,0.36,0.2281,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+232,Tiaong,Lagalag,13.955365,121.395348,0.0,,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",1,1,27,1,supervised
+233,Tiaong,Lagalag,13.955355,121.395372,0.0,0.3457,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+234,Tiaong,Lagalag,13.94982,121.387962,1.01,0.1986,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+235,Tiaong,Lagalag,13.943822,121.374722,0.0,0.2653,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+236,Tiaong,Lagalag,13.948378,121.378558,0.14,0.5681,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+237,Tiaong,Lagalag,13.943822,121.374722,0.0,0.3816,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+238,Tiaong,Lagalag,13.947653,121.376545,0.17,0.215,99.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+239,Tiaong,Lagalag,13.947783,121.379148,0.23,0.2115,99.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+240,Tiaong,Lagalag,13.943822,121.374722,0.0,0.429,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+241,Tiaong,Lagalag,13.943822,121.374722,0.0,0.2889,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+242,Tiaong,Lagalag,13.943822,121.374722,0.0,0.429,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+243,Tiaong,Lagalag,13.943757,121.374857,0.02,0.1641,99.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+244,Tiaong,Lagalag,13.943417,121.37512,0.06,0.1134,97.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+245,Tiaong,Lagalag,13.943822,121.374722,0.0,0.5741,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+246,Tiaong,Lagalag,13.939284,121.367946,0.77,0.1138,97.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+247,Tiaong,Lagalag,13.935519,121.368202,1.01,0.0343,65.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+248,Tiaong,Lagalag,13.937364,121.365919,1.07,0.0439,67.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+249,Tiaong,Lagalag,13.937978,121.366548,0.97,0.0471,89.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+250,Tiaong,Lagalag,13.948378,121.378558,0.14,0.5585,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+251,Tiaong,Lagalag,13.943822,121.374722,0.0,0.3122,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+252,Tiaong,Lagalag,13.9487139,121.3772526,0.03,0.3565,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+253,Tiaong,Lagalag,13.9489305,121.3773413,0.0,,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",1,1,27,1,supervised
+254,Tiaong,Lagalag,13.948074,121.37821,0.13,0.2275,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+255,Tiaong,Lagalag,13.948917,121.377699,0.04,0.2928,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+256,Tiaong,Lagalag,13.947642,121.377223,0.14,0.1535,98.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+257,Tiaong,Lagalag,13.947906,121.376698,0.13,0.147,98.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+258,Tiaong,Lagalag,13.947446,121.376566,0.18,0.0959,96.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+259,Tiaong,Lagalag,13.947293,121.376509,0.2,0.1702,99.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+260,Tiaong,Lagalag,13.943822,121.374722,0.0,0.3122,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+261,Tiaong,Lagalag,13.948146,121.37793,0.11,0.241,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+262,Tiaong,Lagalag,13.947263,121.377495,0.19,0.1054,96.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+263,Tiaong,Lagalag,13.943822,121.374722,0.0,0.2889,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+264,Tiaong,Lagalag,13.943822,121.374722,0.0,,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",1,1,27,1,supervised
+265,Tiaong,Lagalag,13.943822,121.374722,0.0,,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",1,1,27,1,supervised
+266,Tiaong,Lagalag,13.943822,121.374722,0.0,0.3122,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+267,Tiaong,Lagalag,13.939284,121.367946,0.77,0.0846,94.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+268,Tiaong,Lagalag,13.943822,121.374722,0.0,0.3122,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+269,Tiaong,Lagalag,13.943822,121.374722,0.0,0.267,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+270,Tiaong,Lagalag,13.943822,121.374722,0.0,0.267,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+271,Tiaong,Lagalag,13.943822,121.374722,0.0,0.267,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+272,Tiaong,Lagalag,13.943822,121.374722,0.0,0.267,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+273,Tiaong,Lagalag,13.943822,121.374722,0.0,0.267,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+274,Tiaong,Lagalag,13.943822,121.374722,0.0,0.267,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+275,Tiaong,Lagalag,13.943822,121.374722,0.0,,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",1,1,27,1,supervised
+276,Tiaong,Lagalag,13.943822,121.374722,0.0,0.3715,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+277,Tiaong,Lagalag,13.943822,121.374722,0.0,,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",1,1,27,1,supervised
+278,Tiaong,Lagalag,13.943822,121.374722,0.0,0.267,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+279,Tiaong,Lagalag,13.943822,121.374722,0.0,0.3715,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+280,Tiaong,Lagalag,13.943822,121.374722,0.0,0.267,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+281,Tiaong,Lagalag,13.943822,121.374722,0.0,0.3122,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+282,Tiaong,Lalig,13.95174,121.32568,0.0,,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",1,1,27,1,supervised
+283,Tiaong,Lalig,13.9755356,121.3964804,0.0,0.1346,98.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+284,Tiaong,Lalig,13.9687223,121.326649,0.0,,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",1,1,27,1,supervised
+285,Tiaong,Lalig,13.9755396,121.3964817,0.0,,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",1,1,27,1,supervised
+286,Tiaong,Lalig,13.9673662,121.3292074,0.0,,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",1,1,27,1,supervised
+287,Tiaong,Lalig,13.9768616,121.3975795,0.0,,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",1,1,27,1,supervised
+288,Tiaong,Lalig,13.95174,121.32568,0.0,0.0944,95.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+289,Tiaong,Lumingon,13.954556,121.333759,0.85,0.1045,96.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+290,Tiaong,Lumingon,13.955972,121.334252,0.69,0.1076,96.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+291,Tiaong,Lumingon,13.956033,121.333982,0.68,0.1206,97.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+292,Tiaong,Lumingon,13.954189,121.333682,0.89,0.1798,99.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+293,Tiaong,Lumingon,13.954325,121.333905,0.87,0.1799,99.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+294,Tiaong,Lusacan,13.961859,121.341966,0.0,0.0981,96.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+295,Tiaong,Lusacan,13.955155,121.351868,0.61,0.013,80.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+296,Tiaong,Lusacan,13.961859,121.341966,0.0,0.1335,98.3,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+297,Tiaong,Lusacan,13.962123,121.337939,0.33,0.0652,92.5,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+298,Tiaong,Lusacan,13.955911,121.342786,0.66,0.0066,80.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+299,Tiaong,Lusacan,13.961859,121.341966,0.0,0.1335,98.1,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+300,Tiaong,Lusacan,13.961859,121.341966,0.0,0.072,93.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+301,Tiaong,Lusacan,13.961992,121.339872,0.23,0.0815,94.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+302,Tiaong,Lusacan,13.961859,121.341966,0.0,0.091,95.3,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+303,Tiaong,Lusacan,13.957453,121.348063,0.69,0.0064,79.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+304,Tiaong,Lusacan,13.961859,121.341966,0.0,0.091,95.3,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+305,Tiaong,Lusacan,13.961718,121.345475,0.14,0.0679,92.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+306,Tiaong,Lusacan,13.961859,121.341966,0.0,0.091,95.3,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+307,Tiaong,Lusacan,13.961859,121.341966,0.0,0.1009,96.5,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+308,Tiaong,Lusacan,13.946974,121.34212,0.91,0.0194,82.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+309,Tiaong,Lusacan,13.946932,121.340228,1.11,0.0193,59.2,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+310,Tiaong,Lusacan,13.961859,121.341966,0.0,0.1009,96.5,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+311,Tiaong,Lusacan,13.961859,121.341966,0.0,0.1956,99.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+312,Tiaong,Lusacan,13.961859,121.341966,0.0,0.091,95.3,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+313,Tiaong,Lusacan,13.961859,121.341966,0.0,0.091,95.3,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+314,Tiaong,Lusacan,13.961859,121.341966,0.0,0.1335,98.1,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+315,Tiaong,Lusacan,13.346305,121.950342,,,,Unverified,Unverified (check coordinates),Gray,"Verify the farm's latitude/longitude, then re-run the assessment",0,0,27,1,supervised
+316,Tiaong,Lusacan,13.954549,121.341472,0.81,0.0032,79.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+317,Tiaong,Lusacan,13.960303,121.341413,0.18,0.0322,86.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+318,Tiaong,Lusacan,13.959634,121.340616,0.29,0.0417,88.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+319,Tiaong,Lusacan,13.961859,121.341966,0.0,0.091,95.3,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+320,Tiaong,Lusacan,13.961859,121.341966,0.0,0.091,95.3,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+321,Tiaong,Lusacan,13.960229,121.339898,0.29,0.0846,94.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+322,Tiaong,Lusacan,13.962741,121.338277,0.37,0.0652,92.5,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+323,Tiaong,Lusacan,13.961965,121.340299,0.18,0.0681,92.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+324,Tiaong,Lusacan,13.961951,121.344891,0.11,0.1144,97.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+325,Tiaong,Lusacan,13.961951,121.344891,0.11,0.0956,95.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+326,Tiaong,Lusacan,13.961859,121.341966,0.0,0.1118,97.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+327,Tiaong,Lusacan,13.95807,121.351626,0.77,0.0032,79.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+328,Tiaong,Lusacan,13.961859,121.341966,0.0,0.091,95.3,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+329,Tiaong,Lusacan,13.961859,121.341966,0.0,,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",1,1,27,1,supervised
+330,Tiaong,Lusacan,13.961859,121.341966,0.0,0.1335,98.3,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+331,Tiaong,Lusacan,13.95885,121.3519633,0.69,0.0064,79.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+332,Tiaong,Lusacan,13.950039,121.346199,0.41,0.0131,81.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+333,Tiaong,Paiisa,13.9172539,121.3533899,2.19,0.0285,62.8,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+334,Tiaong,Paiisa,13.9172886,121.3534316,2.19,0.0288,63.1,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+335,Tiaong,Paiisa,13.9172539,121.3533899,2.19,0.022,60.1,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+336,Tiaong,Paiisa,13.9172539,121.3533899,2.19,0.022,60.1,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+337,Tiaong,Paiisa,13.907187,121.35611,2.48,0.0061,54.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+338,Tiaong,Paiisa,13.9172539,121.3533899,2.19,0.022,60.1,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+339,Tiaong,Paiisa,13.9172539,121.3533899,2.19,0.0416,67.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+340,Tiaong,Paiisa,13.9172539,121.3533899,2.19,0.022,60.1,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+341,Tiaong,Paiisa,13.914165,121.354314,2.23,0.0061,54.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+342,Tiaong,Paiisa,13.936852,121.354852,1.55,0.0194,59.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+343,Tiaong,Paiisa,13.936614,121.355825,1.61,0.0194,59.3,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+344,Tiaong,Paiisa,13.9172539,121.3533899,2.19,0.0285,62.8,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+345,Tiaong,Paiisa,13.935368,121.355064,1.71,0.0162,58.7,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+346,Tiaong,Paiisa,13.9172539,121.3533899,2.19,0.0285,63.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+347,Tiaong,Paiisa,13.9172539,121.3533899,2.19,0.022,60.1,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+348,Tiaong,Paiisa,13.9172539,121.3533899,2.19,0.022,60.1,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+349,Tiaong,Paiisa,13.9172539,121.3533899,2.19,0.022,60.1,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+350,Tiaong,Paiisa,13.9172539,121.3533899,2.19,0.022,60.1,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+351,Tiaong,Paiisa,13.9172539,121.3533899,2.19,0.022,60.1,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+352,Tiaong,Paiisa,13.9172539,121.3533899,2.19,0.0285,63.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+353,Tiaong,Paiisa,13.935168,121.356178,1.77,0.0194,59.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+354,Tiaong,Paiisa,13.916391,121.355387,2.38,0.0222,61.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+355,Tiaong,Paiisa,13.9172539,121.3533899,2.19,0.0285,62.8,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+356,Tiaong,Paiisa,13.918008,121.35451,2.33,0.0125,57.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+357,Tiaong,Paiisa,13.904885,121.354349,2.37,0.0097,56.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+358,Tiaong,Paiisa,13.932616,121.359343,1.95,0.0356,66.1,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+359,Tiaong,Palagaran,13.942007,121.345191,1.03,0.1797,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+360,Tiaong,Palagaran,13.941881,121.345044,1.05,0.1305,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+361,Tiaong,Palagaran,13.949202,121.349325,0.11,0.073,93.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+362,Tiaong,Palagaran,13.944379,121.345138,0.81,0.0289,85.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+363,Tiaong,Palagaran,13.944795,121.345157,0.78,0.0321,85.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+364,Tiaong,Palagaran,13.94278,121.34499,0.96,0.0552,90.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+365,Tiaong,Palagaran,13.94454,121.34522,0.79,0.0324,86.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+366,Tiaong,Palagaran,13.94471,121.34475,0.82,0.0258,84.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+367,Tiaong,Palagaran,13.9490932,121.3494515,0.12,0.0417,87.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+368,Tiaong,Palagaran,13.949202,121.349325,0.11,0.0498,89.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+369,Tiaong,Palagaran,13.942007,121.345191,1.03,0.1402,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+370,Tiaong,Palagaran,13.936692,121.35042,1.47,0.1108,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+371,Tiaong,Palagaran,13.935445,121.349905,1.61,0.2123,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+372,Tiaong,Palagaran,13.942007,121.345191,1.03,0.1797,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+373,Tiaong,Palagaran,13.935452,121.3499,1.61,0.2123,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+374,Tiaong,Palagaran,13.93627333,121.349725,1.52,0.1076,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+375,Tiaong,Palagaran,13.93731,121.350608,1.41,0.052,70.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+376,Tiaong,Palagaran,13.941868,121.345005,1.05,0.1667,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+377,Tiaong,Palagaran,13.93814,121.350327,1.31,0.0979,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+378,Tiaong,Palagaran,13.945819,121.346617,0.59,0.0456,88.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+379,Tiaong,Palagaran,13.943812,121.344427,0.91,0.0161,81.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+380,Tiaong,Palagaran,13.94447,121.342936,0.98,0.0195,82.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+381,Tiaong,Palagaran,13.942007,121.345191,1.03,0.2058,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+382,Tiaong,Palagaran,13.9445435,121.3452652,0.79,0.0514,89.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+383,Tiaong,Palagaran,13.943473,121.342146,1.11,0.088,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+384,Tiaong,Palagaran,13.947121,121.347341416,0.43,0.0744,93.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+385,Tiaong,Palagaran,13.942007,121.345191,1.03,0.1402,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+386,Tiaong,Palagaran,13.947114,121.34718,0.44,0.0453,88.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+387,Tiaong,Palagaran,13.947722,121.348218,0.32,0.0129,80.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+388,Tiaong,Palagaran,13.943789,121.346142,0.8,0.0386,87.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+389,Tiaong,QUIPOT,13.9579579,121.3181707,1.06,0.0745,74.2,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+390,Tiaong,QUIPOT,13.9579579,121.3181707,1.06,0.1103,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+391,Tiaong,QUIPOT,13.9579579,121.3181707,1.06,0.0647,72.3,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+392,Tiaong,San Agustin,13.9340133,121.3218173,1.05,0.0518,69.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+393,Tiaong,San Agustin,13.9340133,121.3218173,1.05,0.0551,70.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+394,Tiaong,San Agustin,13.9340133,121.3218173,1.05,0.0518,69.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+395,Tiaong,San Agustin,13.9340133,121.3218173,1.05,0.0518,69.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+396,Tiaong,San Agustin,13.9340133,121.3218173,1.05,0.0518,69.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+397,Tiaong,San Agustin,13.93711424,121.3207633,0.9,0.0359,87.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+398,Tiaong,San Agustin,13.9340133,121.3218173,1.05,0.0518,69.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+399,Tiaong,San Agustin,13.9340133,121.3218173,1.05,0.0551,70.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+400,Tiaong,San Agustin,13.935146,121.321791,1.02,0.0425,67.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+401,Tiaong,San Agustin,13.9340133,121.3218173,1.05,0.0518,69.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+402,Tiaong,San Agustin,13.9340133,121.3218173,1.05,0.0518,69.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+403,Tiaong,San Agustin,13.9340133,121.3218173,1.05,0.0518,69.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+404,Tiaong,San Agustin,13.9340133,121.3218173,1.05,0.0551,70.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+405,Tiaong,San Agustin,13.9340133,121.3218173,1.05,0.0518,69.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+406,Tiaong,San Agustin,13.9340133,121.3218173,1.05,0.091,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+407,Tiaong,San Agustin,13.9340133,121.3218173,1.05,0.0714,73.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+408,Tiaong,San Agustin,13.928642,121.328912,1.88,0.081,74.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+409,Tiaong,San Agustin,13.9340133,121.3218173,1.05,0.0551,70.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+410,Tiaong,San Agustin,13.9340133,121.3218173,1.05,0.0518,69.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+411,Tiaong,San Agustin,13.946783,121.318058,0.99,0.0328,86.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+412,Tiaong,San Francisco,13.8852,121.3627,1.24,0.0391,66.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+413,Tiaong,San Francisco,13.886491,121.345726,2.82,0.0554,70.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+414,Tiaong,San Francisco,13.8852,121.3627,1.24,0.0228,61.8,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+415,Tiaong,San Francisco,13.8852,121.3627,1.24,0.0195,59.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+416,Tiaong,San Francisco,13.8852,121.3627,1.24,0.0195,59.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+417,Tiaong,San Isidro,13.945853,121.341763,1.0,0.0581,71.1,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+418,Tiaong,San Isidro,13.941311,121.334236,1.48,0.0651,72.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+419,Tiaong,San Isidro,13.941551,121.336137,1.6,0.075,74.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+420,Tiaong,San Isidro,13.945853,121.341763,1.0,0.0711,73.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+421,Tiaong,San Isidro,13.939927,121.336373,1.74,0.1301,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+422,Tiaong,San Isidro,13.945853,121.341763,1.0,0.0516,69.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+423,Tiaong,San Isidro,13.945853,121.341763,1.0,0.0613,71.7,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+424,Tiaong,San Isidro,13.945853,121.341763,1.0,0.0352,65.7,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+425,Tiaong,San Isidro,13.945853,121.341763,1.0,0.0516,69.1,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+426,Tiaong,San Isidro,13.945853,121.341763,1.0,0.032,64.2,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+427,Tiaong,San Isidro,13.945853,121.341763,1.0,0.0352,65.7,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+428,Tiaong,San Isidro,13.938243,121.329187,1.54,0.0619,71.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+429,Tiaong,San Isidro,13.945853,121.341763,1.0,0.0842,74.8,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+430,Tiaong,San Isidro,13.940159,121.335319,1.65,0.0523,70.2,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+431,Tiaong,San Isidro,13.938582,121.335628,1.81,0.0584,71.2,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+432,Tiaong,San Isidro,13.939271,121.333394,1.61,0.1432,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+433,Tiaong,San Isidro,13.939271,121.333394,1.61,0.1928,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+434,Tiaong,San Isidro,13.937829,121.329413,1.59,0.0619,71.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+435,Tiaong,San Isidro,13.945853,121.341763,1.0,0.058,71.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+436,Tiaong,San Isidro,13.945853,121.341763,1.0,0.032,64.2,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+437,Tiaong,San Isidro,13.945853,121.341763,1.0,0.0516,69.1,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+438,Tiaong,San Isidro,13.945853,121.341763,1.0,0.0516,69.1,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+439,Tiaong,San Isidro,13.945853,121.341763,1.0,0.032,64.2,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+440,Tiaong,San Isidro,13.944616,121.337883,1.44,0.137,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+441,Tiaong,San Isidro,13.944616,121.337883,1.44,0.2024,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+442,Tiaong,San Isidro,13.945853,121.341763,1.0,0.0548,70.3,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+443,Tiaong,San Isidro,13.945853,121.341763,1.0,0.0516,69.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+444,Tiaong,San Isidro,13.942313,121.337235,1.62,0.209,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+445,Tiaong,San Isidro,13.942313,121.337235,1.62,0.2388,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+446,Tiaong,San Isidro,13.942313,121.337235,1.62,0.209,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+447,Tiaong,San Isidro,13.939224,121.333493,1.62,0.1304,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+448,Tiaong,San Jose,13.9251,121.33026,1.46,0.0644,72.2,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+449,Tiaong,San Jose,13.9251,121.33026,1.46,0.0838,74.8,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+450,Tiaong,San Jose,13.9251,121.33026,1.46,0.0543,70.3,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+451,Tiaong,San Jose,13.9251,121.33026,1.46,0.093,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+452,Tiaong,San Jose,13.92402,121.33007,1.35,0.032,64.3,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+453,Tiaong,San Jose,13.911159,121.329761,0.45,0.0221,83.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+454,Tiaong,San Jose,13.92439,121.32988,1.4,0.0576,70.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+455,Tiaong,San Jose,13.92342,121.3303,1.28,0.0608,71.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+456,Tiaong,San Jose,13.9253,121.33116,1.46,0.0255,62.2,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+457,Tiaong,San Jose,13.92517,121.33186,1.44,0.0944,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+458,Tiaong,San Jose,13.9251,121.33026,1.46,0.1157,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+459,Tiaong,San Jose,13.9251,121.33026,1.46,0.0896,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+460,Tiaong,San Jose,13.93029,121.3306,2.02,0.1142,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+461,Tiaong,San Jose,13.9251,121.33026,1.46,0.0667,72.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+462,Tiaong,San Jose,13.9251,121.33026,1.46,0.0963,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+463,Tiaong,San Jose,13.9159052,121.340449,0.82,0.1243,97.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+464,Tiaong,San Jose,13.9251,121.33026,1.46,0.0733,74.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+465,Tiaong,San Jose,13.924,121.32948,1.37,0.0256,62.2,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+466,Tiaong,San Jose,13.9251,121.33026,1.46,0.0667,72.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+467,Tiaong,San Jose,13.9251,121.33026,1.46,0.0667,72.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+468,Tiaong,San Jose,13.9251,121.33026,1.46,0.0667,72.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+469,Tiaong,San Jose,13.929777,121.330775,1.96,0.1437,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+470,Tiaong,San Jose,13.9120294,121.3461009,1.33,0.0621,72.1,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+471,Tiaong,San Jose,13.9251,121.33026,1.46,0.1221,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+472,Tiaong,San Jose,13.9251,121.33026,1.46,0.0667,72.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+473,Tiaong,San Jose,13.9251,121.33026,1.46,0.0667,72.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+474,Tiaong,San Jose,13.9251,121.33026,1.46,0.0667,72.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+475,Tiaong,San Jose,13.9251,121.33026,1.46,0.0733,74.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+476,Tiaong,San Jose,13.9251,121.33026,1.46,0.0963,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+477,Tiaong,San Jose,13.9251,121.33026,1.46,0.1189,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+478,Tiaong,San Jose,13.9251,121.33026,1.46,0.1254,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+479,Tiaong,San Jose,13.9251,121.33026,1.46,0.0733,74.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+480,Tiaong,San Jose,13.92466,121.32882,1.47,0.0384,66.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+481,Tiaong,San Jose,13.9251,121.33026,1.46,0.0608,71.5,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+482,Tiaong,San Jose,13.9251,121.33026,1.46,0.0896,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+483,Tiaong,San Jose,13.9251,121.33026,1.46,0.1221,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+484,Tiaong,San Jose,13.932465,121.32948,1.89,0.1242,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+485,Tiaong,San Jose,13.9251,121.33026,1.46,0.1483,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+486,Tiaong,San Jose,13.9251,121.33026,1.46,0.1483,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+487,Tiaong,San Jose,13.9251,121.33026,1.46,0.1483,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+488,Tiaong,San Jose,13.92344,121.33025,1.29,0.0449,68.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+489,Tiaong,San Jose,13.9244,121.33007,1.39,0.0382,66.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+490,Tiaong,San Jose,13.9251,121.33026,1.46,0.0733,74.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+491,Tiaong,San Jose,13.9251,121.33026,1.46,0.0733,74.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+492,Tiaong,San Jose,13.9251,121.33026,1.46,0.0667,72.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+493,Tiaong,San Jose,13.91959,121.33714,0.88,0.1081,97.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+494,Tiaong,San Jose,13.9155482,121.3405049,0.81,0.1602,99.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+495,Tiaong,San Jose,13.9251,121.33026,1.46,0.1254,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+496,Tiaong,San Jose,13.9251,121.33026,1.46,0.0667,72.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+497,Tiaong,San Jose,13.91465,121.33827,0.55,0.0522,90.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+498,Tiaong,San Jose,13.9251,121.33026,1.46,0.093,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+499,Tiaong,San Jose,13.9251,121.33026,1.46,0.0733,74.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+500,Tiaong,San Jose,13.930165,121.333254,1.97,0.0721,73.7,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+501,Tiaong,San Jose,13.9251,121.33026,1.46,0.0667,72.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+502,Tiaong,San Jose,13.942417,121.32997,1.13,0.0458,68.5,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+503,Tiaong,San Jose,13.9251,121.33026,1.46,0.0667,72.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+504,Tiaong,San Jose,13.9251,121.33026,1.46,0.0667,72.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+505,Tiaong,San Jose,13.9251,121.33026,1.46,0.1483,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+506,Tiaong,San Jose,13.92547,121.32956,1.52,0.0322,65.3,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+507,Tiaong,San Jose,13.932112,121.330877,2.05,0.1277,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+508,Tiaong,San Jose,13.9251,121.33026,1.46,0.093,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+509,Tiaong,San Jose,13.913869,121.341451,0.85,0.0718,93.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+510,Tiaong,San Juan,13.8923632,121.3662857,1.83,0.0094,56.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+511,Tiaong,San Juan,13.8923632,121.3662857,1.83,0.0094,56.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+512,Tiaong,San Juan,13.89394,13.36675,,,,Unverified,Unverified (check coordinates),Gray,"Verify the farm's latitude/longitude, then re-run the assessment",0,0,27,1,supervised
+513,Tiaong,San Juan,13.8986,121.3553,2.78,0.0262,62.5,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+514,Tiaong,San Juan,13.8923632,121.3662857,1.83,0.0094,56.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+515,Tiaong,San Juan,13.90449,121.35635,2.59,0.013,57.8,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+516,Tiaong,San Juan,13.89936,121.36041,2.75,0.0033,54.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+517,Tiaong,San Juan,13.8923632,121.3662857,1.83,0.0094,56.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+518,Tiaong,San Juan,13.8923632,121.3662857,1.83,0.0127,57.7,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+519,Tiaong,San Juan,13.8923632,121.3662857,1.83,0.0094,56.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+520,Tiaong,San Juan,13.8923632,121.3662857,1.83,0.0127,57.7,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+521,Tiaong,San Juan,13.8923632,121.3662857,1.83,0.0127,57.7,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+522,Tiaong,San Juan,13.8923632,121.3662857,1.83,0.0094,56.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+523,Tiaong,San Juan,13.8923632,121.3662857,1.83,0.0094,56.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+524,Tiaong,San Juan,13.8923632,121.3662857,1.83,0.0291,63.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+525,Tiaong,San Juan,13.8923632,121.3662857,1.83,0.0094,56.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+526,Tiaong,San Juan,13.8923632,121.3662857,1.83,0.0422,67.1,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+527,Tiaong,San Pedro,13.973935,121.303245,2.59,0.0489,68.7,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+528,Tiaong,San Pedro,13.966375,121.31311,1.49,0.0491,68.8,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+529,Tiaong,San Pedro,13.9677233,121.306336,2.2,0.0294,63.5,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+530,Tiaong,San Pedro,13.96877,121.29918,2.97,0.0621,72.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+531,Tiaong,San Pedro,13.968344,121.298864,3.0,0.0621,72.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+532,Tiaong,San Pedro,13.973935,121.303245,2.59,0.0816,74.7,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+533,Tiaong,San Pedro,13.973935,121.303245,2.59,0.0587,71.3,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+534,Tiaong,San Pedro,13.973935,121.303245,2.59,0.0587,71.3,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+535,Tiaong,San Pedro,13.971146,121.307017,2.14,0.0485,68.5,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+536,Tiaong,San Pedro,13.97155,121.30713,2.13,0.0452,68.1,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+537,Tiaong,San Pedro,13.9713014,121.3074123,2.1,0.0224,61.1,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+538,Tiaong,Tagbakin,13.91842,121.3605,2.96,0.0416,67.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+539,Tiaong,Tagbakin,13.90806,121.365343,3.44,0.0092,55.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+540,Tiaong,Tagbakin,13.91641667,121.362295,3.11,0.0092,55.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+541,Tiaong,Tagbakin,13.91741,121.36104,3.0,0.006,54.7,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+542,Tiaong,Tagbakin,13.91842,121.3605,2.96,0.0221,60.7,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+543,Tiaong,Tagbakin,13.901394,121.369415,2.79,0.0226,61.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+544,Tiaong,Tagbakin,13.913188,121.359854,2.82,0.0092,55.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+545,Tiaong,Tagbakin,13.903886,121.370432,3.07,0.029,63.3,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+546,Tiaong,Tagbakin,13.921523,121.362317,2.66,0.0092,55.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+547,Tiaong,Tagbakin,13.91842,121.3605,2.96,0.0318,64.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+548,Tiaong,Tagbakin,13.911596,121.364085,3.28,0.006,54.7,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+549,Tiaong,Tagbakin,13.91481,121.36267,3.13,0.0091,55.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+550,Tiaong,Tagbakin,13.914243,121.362474,3.11,0.0092,55.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+551,Tiaong,Tagbakin,13.91842,121.3605,2.96,0.0221,60.7,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+552,Tiaong,Tagbakin,13.91501333,121.36582167,3.18,0.0092,55.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+553,Tiaong,Tagbakin,13.91842,121.3605,2.96,0.0221,60.7,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+554,Tiaong,Tagbakin,13.903821,121.3696349,3.06,0.0028,54.1,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+555,Tiaong,Tagbakin,13.9302833,121.3643083,1.73,0.0065,55.1,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+556,Tiaong,Tagbakin,13.91842,121.3605,2.96,0.0221,60.7,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+557,Tiaong,Tagbakin,13.91842,121.3605,2.96,0.0285,62.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+558,Tiaong,Tagbakin,13.91842,121.3605,2.96,0.0221,60.7,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+559,Tiaong,Tagbakin,13.91842,121.3605,2.96,0.0221,60.7,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+560,Tiaong,Tagbakin,13.918154,121.360602,2.97,0.0386,66.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+561,Tiaong,Tagbakin,13.91842,121.3605,2.96,0.0253,62.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+562,Tiaong,Tagbakin,13.91673,121.36189,3.08,0.006,54.7,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+563,Tiaong,Tagbakin,13.91868,121.91868,,,,Unverified,Unverified (check coordinates),Gray,"Verify the farm's latitude/longitude, then re-run the assessment",0,0,27,1,supervised
+564,Tiaong,Tagbakin,13.91842,121.3605,2.96,0.0318,64.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+565,Tiaong,Tagbakin,13.91842,121.3605,2.96,0.0285,62.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+566,Tiaong,Tagbakin,13.918259,121.362859,2.95,0.0092,55.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+567,Tiaong,Tagbakin,13.91842,121.3605,2.96,0.0613,71.8,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+568,Tiaong,Tagbakin,13.91842,121.3605,2.96,0.0253,62.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+569,Tiaong,Tagbakin,13.91842,121.3605,2.96,0.0285,62.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+570,Tiaong,Tagbakin,13.91842,121.3605,2.96,0.0221,60.7,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+571,Tiaong,Tagbakin,13.91842,121.3605,2.96,0.0221,60.7,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+572,Tiaong,Talisay,13.945644,121.359702,1.15,0.1102,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+573,Tiaong,Talisay,13.945644,121.359702,1.15,0.0549,70.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+574,Tiaong,Talisay,13.95295,121.37434,0.55,0.0649,92.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+575,Tiaong,Talisay,13.942039,121.371495,0.3,0.0261,84.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+576,Tiaong,Talisay,13.945644,121.359702,1.15,0.0908,75.0,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+577,Tiaong,Talisay,13.95277,121.3749,0.5,0.0649,92.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+578,Tiaong,Tamisian,13.935267,121.305756,0.67,0.0551,90.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+579,Tiaong,Tamisian,13.93553,121.306887,0.61,0.0322,86.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+580,Tiaong,Tamisian,13.934022,121.303849,0.81,0.0065,79.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+581,Tiaong,Tamisian,13.93178,121.30608,0.86,0.0325,86.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+582,Tiaong,Tamisian,13.93178,121.30787,0.72,0.0485,89.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+583,Tiaong,Tamisian,13.30608,121.93178,,,,Unverified,Unverified (check coordinates),Gray,"Verify the farm's latitude/longitude, then re-run the assessment",0,0,27,1,supervised
+584,Tiaong,Tamisian,13.936082,121.297565,1.0,0.0066,80.1,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+585,Tiaong,Tamisian,13.934802,121.297562,1.09,0.0229,61.9,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+586,Tiaong,Tamisian,13.94008,121.2978,0.8,0.0066,80.1,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+587,Tiaong,Tamisian,13.937578,121.297979,0.87,0.0065,79.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+588,Tiaong,Tamisian,13.935731,121.299624,0.85,0.0097,80.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+589,Tiaong,Tamisian,13.91942,121.31181,1.89,0.0226,61.6,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+590,Tiaong,Tamisian,13.93466,121.303923,0.74,0.0132,81.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+591,Tiaong,Tamisian,13.938485,121.296227,1.01,0.0293,63.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+592,Tiaong,Tamisian,13.938835,121.296535,0.97,0.0033,79.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+593,Tiaong,Tamisian,13.93608,121.93608,,,,Unverified,Unverified (check coordinates),Gray,"Verify the farm's latitude/longitude, then re-run the assessment",0,0,27,1,supervised
+594,Tiaong,Tamisian,13.942086,121.294307,1.17,0.0033,54.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+595,Tiaong,Tamisian,13.938718,121.295209,1.11,0.0066,55.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+596,Tiaong,Tamisian,13.93553,121.306887,0.61,0.0322,86.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+597,Tiaong,Tamisian,13.939565,121.295725,1.03,0.0295,63.7,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+598,Tiaong,Tamisian,13.93217,121.30787,0.69,0.0258,84.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+599,Tiaong,Tamisian,13.93676,121.29641,1.07,0.0066,55.3,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+600,Tiaong,Tamisian,13.937149,121.291841,1.51,0.0099,57.2,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+601,Tiaong,Tamisian,13.935267,121.305756,0.67,0.0288,85.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+602,Tiaong,Tamisian,13.93994,121.296446,0.95,0.0033,79.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+605,Tiaong,Anastacia,13.95,121.35,0.0,,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",1,1,27,1,supervised
+606,Tiaong,Tamisian,13.936482,121.312457,0.0,,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",1,1,27,1,supervised
+607,Tiaong,Tamisian,13.962134,121.334892,0.0,,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",1,1,27,1,supervised
+608,Tiaong,Tamisian,13.941276,121.305123,0.0,,100.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",1,1,27,1,supervised
+609,Tiaong,Tamisian,13.950873,121.352678,0.31,0.026,84.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+610,Tiaong,Tamisian,13.938421,121.328745,1.51,0.052,70.1,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+611,Tiaong,Tamisian,13.932567,121.310234,0.5,0.0292,85.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+612,Tiaong,Tamisian,13.965432,121.345678,0.28,0.0293,85.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+613,Tiaong,Tamisian,13.939876,121.359876,1.55,0.0225,61.2,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+614,Tiaong,Tamisian,13.933456,121.320987,0.98,0.0227,83.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+615,Tiaong,Tamisian,13.937821,121.318452,0.66,0.0226,83.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+616,Tiaong,Tamisian,13.961234,121.332145,0.31,0.0325,86.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+617,Tiaong,Tamisian,13.942678,121.307654,0.31,0.0323,86.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+618,Tiaong,Tamisian,13.949876,121.351234,0.13,0.0483,89.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+619,Tiaong,Tamisian,13.938765,121.325678,1.44,0.0456,68.4,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+620,Tiaong,Tamisian,13.934567,121.311234,0.25,0.0259,84.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+621,Tiaong,Tamisian,13.963421,121.343876,0.14,0.0514,89.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+622,Tiaong,Tamisian,13.946789,121.302345,0.68,0.0194,82.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+623,Tiaong,Tamisian,13.940987,121.358765,1.38,0.0225,61.2,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+624,Tiaong,Tamisian,13.932345,121.319876,0.92,0.0194,82.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+625,Tiaong,Tamisian,13.936789,121.313456,0.11,0.0482,89.0,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+626,Tiaong,Tamisian,13.960987,121.335678,0.15,0.0651,92.4,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+627,Tiaong,Tamisian,13.941234,121.304567,0.06,0.0516,89.8,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+628,Tiaong,Tamisian,13.951234,121.353456,0.4,0.026,84.6,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+629,Tiaong,Tamisian,13.939876,121.32789,1.33,0.0455,68.2,Moderate,Buffer Zone,Yellow,"Controlled transport, heightened surveillance, biosecurity reinforcement",0,1,27,1,supervised
+634,Tiaong,Talisay,13.15277,121.171495,,,,Unverified,Unverified (check coordinates),Gray,"Verify the farm's latitude/longitude, then re-run the assessment",0,0,27,1,supervised
+635,Tiaong,Talisay,13.15277,121.273495,,,,Unverified,Unverified (check coordinates),Gray,"Verify the farm's latitude/longitude, then re-run the assessment",0,0,27,1,supervised
+636,Tiaong,Talisay,13.577031,122.3131967,,,,Unverified,Unverified (check coordinates),Gray,"Verify the farm's latitude/longitude, then re-run the assessment",0,0,27,1,supervised
+637,Tiaong,Talisay,13.445612,121.058702,,,,Unverified,Unverified (check coordinates),Gray,"Verify the farm's latitude/longitude, then re-run the assessment",0,0,27,1,supervised
+638,Tiaong,Talisay,13.445612,121.058702,,,,Unverified,Unverified (check coordinates),Gray,"Verify the farm's latitude/longitude, then re-run the assessment",0,0,27,1,supervised
+640,Tiaong,Lalig,13.9768616,121.3975785,0.0,0.1122,97.2,High,Infected Zone,Red,"Strict quarantine, culling, total movement ban",0,1,27,1,supervised
+641,Sariaya,Sto. Cristo,13.9423,121.4934,10.69,0.0,1.9,Low,Protected/Free Zone,Dark Green,"Normal movement allowed, continued monitoring",0,1,0,0,supervised
+642,Sariaya,Sto. Cristo,13.9423,121.4934,10.69,0.0,1.9,Low,Protected/Free Zone,Dark Green,"Normal movement allowed, continued monitoring",0,1,0,0,supervised
+643,Sariaya,Sto. Cristo,13.94139,121.49361,10.73,0.0,1.9,Low,Protected/Free Zone,Dark Green,"Normal movement allowed, continued monitoring",0,1,0,0,supervised
+644,Candelaria,Masin,13.9382,13.9382,,,,Unverified,Unverified (check coordinates),Gray,"Verify the farm's latitude/longitude, then re-run the assessment",0,0,0,0,supervised

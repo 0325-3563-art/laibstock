@@ -1,0 +1,638 @@
+id,municipality,barangay,lat,lon,exp_km,nearest_case_km,risk_level,exp_level,zoning,exp_zone,risk_score,exp_score_rule,level_ok,zone_ok,dist_ok,band_ok,outbreak_ok,score_ok
+1,Tiaong,Anastacia,13.964924,121.350532,0.0,0.0,High,High,Infected Zone,Infected Zone,93.9,94.37151639344262,True,True,True,True,True,True
+4,Tiaong,Anastacia,13.964924,121.350532,0.0,0.0,High,High,Infected Zone,Infected Zone,91.4,94.01526639344263,True,True,True,True,True,True
+70,Tiaong,Behia,13.912334,121.333782,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,100.0,True,True,True,True,True,True
+5,Tiaong,Anastacia,13.964924,121.350532,0.0,0.0,High,High,Infected Zone,Infected Zone,91.4,94.01526639344263,True,True,True,True,True,True
+330,Tiaong,Lusacan,13.961859,121.341966,0.0,0.0,High,High,Infected Zone,Infected Zone,98.3,94.29600409836065,True,True,True,True,True,True
+29,Tiaong,Anastacia,13.964924,121.350532,0.0,0.0,High,High,Infected Zone,Infected Zone,94.8,94.12776639344261,True,True,True,True,True,True
+31,Tiaong,Anastacia,13.964924,121.350532,0.0,0.0,High,High,Infected Zone,Infected Zone,90.4,93.97776639344262,True,True,True,True,True,True
+30,Tiaong,Anastacia,13.964924,121.350532,0.0,0.0,High,High,Infected Zone,Infected Zone,93.9,94.35276639344262,True,True,True,True,True,True
+319,Tiaong,Lusacan,13.961859,121.341966,0.0,0.0,High,High,Infected Zone,Infected Zone,95.3,94.25850409836066,True,True,True,True,True,True
+320,Tiaong,Lusacan,13.961859,121.341966,0.0,0.0,High,High,Infected Zone,Infected Zone,95.3,94.25850409836066,True,True,True,True,True,True
+313,Tiaong,Lusacan,13.961859,121.341966,0.0,0.0,High,High,Infected Zone,Infected Zone,95.3,94.25850409836066,True,True,True,True,True,True
+314,Tiaong,Lusacan,13.961859,121.341966,0.0,0.0,High,High,Infected Zone,Infected Zone,98.1,94.33350409836066,True,True,True,True,True,True
+326,Tiaong,Lusacan,13.961859,121.341966,0.0,0.0,High,High,Infected Zone,Infected Zone,97.0,94.50225409836065,True,True,True,True,True,True
+328,Tiaong,Lusacan,13.961859,121.341966,0.0,0.0,High,High,Infected Zone,Infected Zone,95.3,94.25850409836066,True,True,True,True,True,True
+299,Tiaong,Lusacan,13.961859,121.341966,0.0,0.0,High,High,Infected Zone,Infected Zone,98.1,94.33350409836066,True,True,True,True,True,True
+329,Tiaong,Lusacan,13.961859,121.341966,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,100.0,True,True,True,True,True,True
+311,Tiaong,Lusacan,13.961859,121.341966,0.0,0.0,High,High,Infected Zone,Infected Zone,99.6,94.38975409836065,True,True,True,True,True,True
+312,Tiaong,Lusacan,13.961859,121.341966,0.0,0.0,High,High,Infected Zone,Infected Zone,95.3,94.25850409836066,True,True,True,True,True,True
+300,Tiaong,Lusacan,13.961859,121.341966,0.0,0.0,High,High,Infected Zone,Infected Zone,93.2,99.25850409836066,True,True,True,True,True,True
+302,Tiaong,Lusacan,13.961859,121.341966,0.0,0.0,High,High,Infected Zone,Infected Zone,95.3,94.25850409836066,True,True,True,True,True,True
+304,Tiaong,Lusacan,13.961859,121.341966,0.0,0.0,High,High,Infected Zone,Infected Zone,95.3,94.25850409836066,True,True,True,True,True,True
+306,Tiaong,Lusacan,13.961859,121.341966,0.0,0.0,High,High,Infected Zone,Infected Zone,95.3,94.25850409836066,True,True,True,True,True,True
+307,Tiaong,Lusacan,13.961859,121.341966,0.0,0.0,High,High,Infected Zone,Infected Zone,96.5,94.27725409836066,True,True,True,True,True,True
+310,Tiaong,Lusacan,13.961859,121.341966,0.0,0.0,High,High,Infected Zone,Infected Zone,96.5,94.27725409836066,True,True,True,True,True,True
+16,Tiaong,Anastacia,13.964924,121.350532,0.0,0.0,High,High,Infected Zone,Infected Zone,91.4,94.07151639344262,True,True,True,True,True,True
+17,Tiaong,Anastacia,13.964924,121.350532,0.0,0.0,High,High,Infected Zone,Infected Zone,93.4,94.22151639344261,True,True,True,True,True,True
+12,Tiaong,Anastacia,13.964924,121.350532,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,100.0,True,True,True,True,True,True
+13,Tiaong,Anastacia,13.964924,121.350532,0.0,0.0,High,High,Infected Zone,Infected Zone,93.8,94.27776639344262,True,True,True,True,True,True
+18,Tiaong,Anastacia,13.964924,121.350532,0.0,0.0,High,High,Infected Zone,Infected Zone,91.1,93.99651639344262,True,True,True,True,True,True
+19,Tiaong,Anastacia,13.964924,121.350532,0.0,0.0,High,High,Infected Zone,Infected Zone,91.1,93.99651639344262,True,True,True,True,True,True
+282,Tiaong,Lalig,13.95174,121.32568,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,100.0,True,True,True,True,True,True
+281,Tiaong,Lagalag,13.943822,121.374722,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,94.9125,True,True,True,True,True,True
+279,Tiaong,Lagalag,13.943822,121.374722,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,95.19375,True,True,True,True,True,True
+272,Tiaong,Lagalag,13.943822,121.374722,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,94.89375,True,True,True,True,True,True
+284,Tiaong,Lalig,13.9687223,121.326649,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,100.0,True,True,True,True,True,True
+285,Tiaong,Lalig,13.9755396,121.3964817,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,100.0,True,True,True,True,True,True
+287,Tiaong,Lalig,13.9768616,121.3975795,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,100.0,True,True,True,True,True,True
+286,Tiaong,Lalig,13.9673662,121.3292074,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,100.0,True,True,True,True,True,True
+288,Tiaong,Lalig,13.95174,121.32568,0.0,0.0,High,High,Infected Zone,Infected Zone,95.8,92.64170081967214,True,True,True,True,True,True
+294,Tiaong,Lusacan,13.961859,121.341966,0.0,0.0,High,High,Infected Zone,Infected Zone,96.4,99.29600409836065,True,True,True,True,True,True
+266,Tiaong,Lagalag,13.943822,121.374722,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,94.9125,True,True,True,True,True,True
+296,Tiaong,Lusacan,13.961859,121.341966,0.0,0.0,High,High,Infected Zone,Infected Zone,98.3,94.29600409836065,True,True,True,True,True,True
+75,Tiaong,Behia,13.912334,121.333782,0.0,0.0,High,High,Infected Zone,Infected Zone,99.6,93.89733606557377,True,True,True,True,True,True
+265,Tiaong,Lagalag,13.943822,121.374722,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,100.0,True,True,True,True,True,True
+269,Tiaong,Lagalag,13.943822,121.374722,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,94.89375,True,True,True,True,True,True
+268,Tiaong,Lagalag,13.943822,121.374722,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,94.9125,True,True,True,True,True,True
+270,Tiaong,Lagalag,13.943822,121.374722,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,94.89375,True,True,True,True,True,True
+271,Tiaong,Lagalag,13.943822,121.374722,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,94.89375,True,True,True,True,True,True
+260,Tiaong,Lagalag,13.943822,121.374722,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,94.9125,True,True,True,True,True,True
+280,Tiaong,Lagalag,13.943822,121.374722,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,94.89375,True,True,True,True,True,True
+273,Tiaong,Lagalag,13.943822,121.374722,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,94.89375,True,True,True,True,True,True
+274,Tiaong,Lagalag,13.943822,121.374722,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,94.89375,True,True,True,True,True,True
+275,Tiaong,Lagalag,13.943822,121.374722,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,100.0,True,True,True,True,True,True
+276,Tiaong,Lagalag,13.943822,121.374722,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,95.175,True,True,True,True,True,True
+277,Tiaong,Lagalag,13.943822,121.374722,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,100.0,True,True,True,True,True,True
+278,Tiaong,Lagalag,13.943822,121.374722,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,94.89375,True,True,True,True,True,True
+251,Tiaong,Lagalag,13.943822,121.374722,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,94.9125,True,True,True,True,True,True
+253,Tiaong,Lagalag,13.9489305,121.3773413,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,100.0,True,True,True,True,True,True
+240,Tiaong,Lagalag,13.943822,121.374722,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,95.0625,True,True,True,True,True,True
+241,Tiaong,Lagalag,13.943822,121.374722,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,95.30625,True,True,True,True,True,True
+237,Tiaong,Lagalag,13.943822,121.374722,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,94.96875,True,True,True,True,True,True
+235,Tiaong,Lagalag,13.943822,121.374722,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,100.0,True,True,True,True,True,True
+264,Tiaong,Lagalag,13.943822,121.374722,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,100.0,True,True,True,True,True,True
+263,Tiaong,Lagalag,13.943822,121.374722,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,96.9375,True,True,True,True,True,True
+190,Tiaong,Cabay,13.876177,121.369549,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,100.0,True,True,True,True,True,True
+193,Tiaong,Cabay,13.876177,121.369549,0.0,0.0,High,High,Infected Zone,Infected Zone,92.0,90.21342213114754,True,True,True,True,True,True
+195,Tiaong,Cabay,13.876177,121.369549,0.0,0.0,High,High,Infected Zone,Infected Zone,97.8,90.28842213114754,True,True,True,True,True,True
+197,Tiaong,Cabay,13.876177,121.369549,0.0,0.0,High,High,Infected Zone,Infected Zone,98.4,90.40092213114754,True,True,True,True,True,True
+215,Tiaong,Lagalag,13.943822,121.374722,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,95.0625,True,True,True,True,True,True
+213,Tiaong,Lagalag,13.943822,121.374722,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,94.93125,True,True,True,True,True,True
+242,Tiaong,Lagalag,13.943822,121.374722,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,95.0625,True,True,True,True,True,True
+245,Tiaong,Lagalag,13.943822,121.374722,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,95.025,True,True,True,True,True,True
+222,Tiaong,Lagalag,13.940363,121.38265,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,100.0,True,True,True,True,True,True
+230,Tiaong,Lagalag,13.943822,121.374722,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,94.93125,True,True,True,True,True,True
+221,Tiaong,Lagalag,13.940363,121.38265,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,100.0,True,True,True,True,True,True
+211,Tiaong,Lagalag,13.943822,121.374722,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,99.95,True,True,True,True,True,True
+205,Tiaong,Del Rosario,13.847886,121.390383,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,100.0,True,True,True,True,True,True
+202,Tiaong,Del Rosario,13.862553,121.38383,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,100.0,True,True,True,True,True,True
+201,Tiaong,Del Rosario,13.8471997,121.395465,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,100.0,True,True,True,True,True,True
+232,Tiaong,Lagalag,13.955365,121.395348,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,100.0,True,True,True,True,True,True
+607,Tiaong,Tamisian,13.962134,121.334892,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,100.0,True,True,True,True,True,True
+608,Tiaong,Tamisian,13.941276,121.305123,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,100.0,True,True,True,True,True,True
+21,Tiaong,Anastacia,13.964924,121.350532,0.0,0.0,High,High,Infected Zone,Infected Zone,93.0,94.18401639344262,True,True,True,True,True,True
+606,Tiaong,Tamisian,13.936482,121.312457,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,100.0,True,True,True,True,True,True
+8,Tiaong,Anastacia,13.964924,121.350532,0.0,0.0,High,High,Infected Zone,Infected Zone,94.2,94.29651639344263,True,True,True,True,True,True
+605,Tiaong,Anastacia,13.95,121.35,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,100.0,True,True,True,True,True,True
+216,Tiaong,Lagalag,13.942525,121.374256,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,100.0,True,True,True,True,True,True
+22,Tiaong,Anastacia,13.962955,121.345104,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,100.0,True,True,True,True,True,True
+7,Tiaong,Anastacia,13.964924,121.350532,0.0,0.0,High,High,Infected Zone,Infected Zone,91.4,94.03401639344261,True,True,True,True,True,True
+168,Tiaong,Cabatang,13.971918,121.386292,0.0,0.0,High,High,Infected Zone,Infected Zone,100.0,100.0,True,True,True,True,True,True
+640,Tiaong,Lalig,13.9768616,121.3975785,0.00010804479365961903,0.0,High,High,Infected Zone,Infected Zone,97.2,98.58614477198991,True,True,True,True,True,True
+283,Tiaong,Lalig,13.9755356,121.3964804,0.00046431109938691517,0.0,High,High,Infected Zone,Infected Zone,98.6,92.80638809755249,True,True,True,True,True,True
+220,Tiaong,Lagalag,13.940363,121.382657,0.0007564325539556483,0.0,High,High,Infected Zone,Infected Zone,100.0,92.46213121515288,True,True,True,True,True,True
+229,Tiaong,Lagalag,13.955355,121.395372,0.00281946478242924,0.0,High,High,Infected Zone,Infected Zone,100.0,92.53782968315375,True,True,True,True,True,True
+233,Tiaong,Lagalag,13.955355,121.395372,0.00281946478242924,0.0,High,High,Infected Zone,Infected Zone,100.0,92.74407968315374,True,True,True,True,True,True
+243,Tiaong,Lagalag,13.943757,121.374857,0.016264421817955014,0.02,High,High,Infected Zone,Infected Zone,99.0,94.92018630909288,True,True,True,True,True,True
+23,Tiaong,Anastacia,13.963089,121.344926,0.02428398585035941,0.02,High,High,Infected Zone,Infected Zone,96.0,93.84028151725198,True,True,True,True,True,True
+252,Tiaong,Lagalag,13.9487139,121.3772526,0.02581003884153748,0.03,High,High,Infected Zone,Infected Zone,100.0,92.16791216013655,True,True,True,True,True,True
+148,Tiaong,Cabatang,13.977124,121.39771,0.032274521536234994,0.03,High,High,Infected Zone,Infected Zone,91.6,94.23583564147597,True,True,True,True,True,True
+158,Tiaong,Cabatang,13.977124,121.39771,0.032274521536234994,0.03,High,High,Infected Zone,Infected Zone,91.8,94.38583564147598,True,True,True,True,True,True
+147,Tiaong,Cabatang,13.976564,121.397567,0.032953877011123116,0.03,High,High,Infected Zone,Infected Zone,91.0,94.49239128107071,True,True,True,True,True,True
+255,Tiaong,Lagalag,13.948917,121.377699,0.03868112655008479,0.04,High,High,Infected Zone,Infected Zone,100.0,92.09279014268677,True,True,True,True,True,True
+627,Tiaong,Tamisian,13.941234,121.304567,0.060261554304678555,0.06,High,High,Infected Zone,Infected Zone,89.8,100.0,True,True,True,True,True,True
+244,Tiaong,Lagalag,13.943417,121.37512,0.062108834829722445,0.06,High,High,Infected Zone,Infected Zone,97.2,94.51904769523992,True,True,True,True,True,True
+157,Tiaong,Cabatang,13.97609,121.39691,0.07648359848214162,0.08,High,High,Infected Zone,Infected Zone,94.2,93.77400621819929,True,True,True,True,True,True
+156,Tiaong,Cabatang,13.977052,121.396791,0.0877590937071933,0.09,High,High,Infected Zone,Infected Zone,88.8,93.67534563498009,True,True,True,True,True,True
+149,Tiaong,Cabatang,13.977052,121.396791,0.0877590937071933,0.09,High,High,Infected Zone,Infected Zone,88.8,93.65659563498009,True,True,True,True,True,True
+25,Tiaong,Anastacia,13.963863,121.344864,0.10375320977913362,0.1,High,High,Infected Zone,Infected Zone,90.8,93.06992580787521,True,True,True,True,True,True
+261,Tiaong,Lagalag,13.948146,121.37793,0.10761171221138997,0.11,High,High,Infected Zone,Infected Zone,100.0,91.65839751815034,True,True,True,True,True,True
+625,Tiaong,Tamisian,13.936789,121.313456,0.11317277560252927,0.11,High,High,Infected Zone,Infected Zone,89.0,100.0,True,True,True,True,True,True
+324,Tiaong,Lusacan,13.961951,121.344891,0.11344068874441438,0.11,High,High,Infected Zone,Infected Zone,97.4,93.30339807184703,True,True,True,True,True,True
+325,Tiaong,Lusacan,13.961951,121.344891,0.11344068874441438,0.11,High,High,Infected Zone,Infected Zone,95.8,93.52839807184702,True,True,True,True,True,True
+361,Tiaong,Palagaran,13.949202,121.349325,0.11452142454739422,0.11,High,High,Infected Zone,Infected Zone,93.4,93.07990474832505,True,True,True,True,True,True
+368,Tiaong,Palagaran,13.949202,121.349325,0.11452142454739422,0.11,High,High,Infected Zone,Infected Zone,89.6,92.77990474832505,True,True,True,True,True,True
+367,Tiaong,Palagaran,13.9490932,121.3494515,0.1165265865368531,0.12,High,High,Infected Zone,Infected Zone,87.8,92.9311095809173,True,True,True,True,True,True
+6,Tiaong,Anastacia,13.965879,121.349796,0.1322433073996921,0.13,High,High,Infected Zone,Infected Zone,90.6,93.47688745369533,True,True,True,True,True,True
+257,Tiaong,Lagalag,13.947906,121.376698,0.13296715127512276,0.13,High,High,Infected Zone,Infected Zone,98.8,92.39903742634267,True,True,True,True,True,True
+254,Tiaong,Lagalag,13.948074,121.37821,0.13338455864744486,0.13,High,High,Infected Zone,Infected Zone,100.0,91.24538511183485,True,True,True,True,True,True
+218,Tiaong,Lagalag,13.942077,121.375408,0.13399106640196465,0.13,High,High,Infected Zone,Infected Zone,98.6,93.79632816898281,True,True,True,True,True,True
+228,Tiaong,Lagalag,13.955796,121.394189,0.13400672141989897,0.13,High,High,Infected Zone,Infected Zone,99.4,91.23994118757588,True,True,True,True,True,True
+618,Tiaong,Tamisian,13.949876,121.351234,0.13404666016642858,0.13,High,High,Infected Zone,Infected Zone,89.2,100.0,True,True,True,True,True,True
+621,Tiaong,Tamisian,13.963421,121.343876,0.142351668591703,0.14,High,High,Infected Zone,Infected Zone,89.6,100.0,True,True,True,True,True,True
+305,Tiaong,Lusacan,13.961718,121.345475,0.14261045402214176,0.14,High,High,Infected Zone,Infected Zone,92.8,93.74191262566691,True,True,True,True,True,True
+256,Tiaong,Lagalag,13.947642,121.377223,0.14313011592901512,0.14,High,High,Infected Zone,Infected Zone,98.8,92.31011148562112,True,True,True,True,True,True
+212,Tiaong,Lagalag,13.942621,121.375583,0.1437894556819785,0.14,High,High,Infected Zone,Infected Zone,97.6,93.6355922627827,True,True,True,True,True,True
+250,Tiaong,Lagalag,13.948378,121.378558,0.14498987083661682,0.14,High,High,Infected Zone,Infected Zone,100.0,91.29383863017961,True,True,True,True,True,True
+236,Tiaong,Lagalag,13.948378,121.378558,0.14498987083661682,0.14,High,High,Infected Zone,Infected Zone,100.0,91.2750886301796,True,True,True,True,True,True
+626,Tiaong,Tamisian,13.960987,121.335678,0.1526998388932888,0.15,High,High,Infected Zone,Infected Zone,92.4,96.75608952443783,True,True,True,True,True,True
+238,Tiaong,Lagalag,13.947653,121.376545,0.16547306153700192,0.17,High,High,Infected Zone,Infected Zone,99.8,92.11461071155124,True,True,True,True,True,True
+41,Tiaong,Ayusan 1,13.9428186,121.304991,0.17126638865051125,0.17,High,High,Infected Zone,Infected Zone,90.2,91.43676745996376,True,True,True,True,True,True
+38,Tiaong,Ayusan 1,13.9411506,121.3067478,0.1761254685773544,0.18,High,High,Infected Zone,Infected Zone,94.8,92.08800051060389,True,True,True,True,True,True
+323,Tiaong,Lusacan,13.961965,121.340299,0.18050367724275243,0.18,High,High,Infected Zone,Infected Zone,92.8,90.17909692248656,True,True,True,True,True,True
+317,Tiaong,Lusacan,13.960303,121.341413,0.1822291572185834,0.18,High,High,Infected Zone,Infected Zone,86.2,92.66399897269805,True,True,True,True,True,True
+198,Tiaong,Cabay,13.874723,121.370348,0.18258550731223994,0.18,High,High,Infected Zone,Infected Zone,88.0,88.82204894216544,True,True,True,True,True,True
+258,Tiaong,Lagalag,13.947446,121.376566,0.1843760782151766,0.18,High,High,Infected Zone,Infected Zone,96.0,92.30545931561721,True,True,True,True,True,True
+262,Tiaong,Lagalag,13.947263,121.377495,0.18523630698091614,0.19,High,High,Infected Zone,Infected Zone,96.8,91.97918231391698,True,True,True,True,True,True
+208,Tiaong,Del Rosario,13.847479,121.3972201,0.19223484596363483,0.19,High,High,Infected Zone,Infected Zone,81.6,91.3553426388018,True,True,True,True,True,True
+24,Tiaong,Anastacia,13.963513,121.342659,0.1977240406685863,0.2,High,High,Infected Zone,Infected Zone,90.0,92.30393103759249,True,True,True,True,True,True
+259,Tiaong,Lagalag,13.947293,121.376509,0.20226613420319406,0.2,High,High,Infected Zone,Infected Zone,99.2,91.83017132572205,True,True,True,True,True,True
+36,Tiaong,Ayusan 1,13.942018,121.303246,0.2188144836434724,0.22,High,High,Infected Zone,Infected Zone,87.8,91.03947162877535,True,True,True,True,True,True
+150,Tiaong,Cabatang,13.97343,121.384889,0.22575226593348352,0.23,High,High,Infected Zone,Infected Zone,81.4,92.58040537800005,True,True,True,True,True,True
+214,Tiaong,Lagalag,13.947993,121.375479,0.22639514001191705,0.23,High,High,Infected Zone,Infected Zone,98.0,91.41279252489572,True,True,True,True,True,True
+301,Tiaong,Lusacan,13.961992,121.339872,0.22673836867994274,0.23,High,High,Infected Zone,Infected Zone,94.4,94.86829337241116,True,True,True,True,True,True
+239,Tiaong,Lagalag,13.947783,121.379148,0.2328787705127709,0.23,High,High,Infected Zone,Infected Zone,99.8,90.37481075801325,True,True,True,True,True,True
+82,Tiaong,Behia,13.911898,121.335972,0.24154977524385593,0.24,High,High,Infected Zone,Infected Zone,90.2,90.94002553219003,True,True,True,True,True,True
+37,Tiaong,Ayusan 1,13.9431967,121.3039529,0.24727616010689055,0.25,High,High,Infected Zone,Infected Zone,86.7,90.73418195972044,True,True,True,True,True,True
+620,Tiaong,Tamisian,13.934567,121.311234,0.24971403629174843,0.25,High,High,Infected Zone,Infected Zone,84.4,99.1009652972013,True,True,True,True,True,True
+170,Tiaong,Cabatang,13.974218,121.385534,0.26732447888447824,0.27,High,High,Infected Zone,Infected Zone,83.8,92.51664851467885,True,True,True,True,True,True
+612,Tiaong,Tamisian,13.965432,121.345678,0.28098311245038743,0.28,High,High,Infected Zone,Infected Zone,85.4,99.63361088081321,True,True,True,True,True,True
+318,Tiaong,Lusacan,13.959634,121.340616,0.28614455474688916,0.29,High,High,Infected Zone,Infected Zone,88.0,91.84848924432538,True,True,True,True,True,True
+321,Tiaong,Lusacan,13.960229,121.339898,0.2871476745383357,0.29,High,High,Infected Zone,Infected Zone,94.6,89.26471194615021,True,True,True,True,True,True
+15,Tiaong,Anastacia,13.965904,121.353015,0.2893699087970743,0.29,High,High,Infected Zone,Infected Zone,80.4,91.46452969146821,True,True,True,True,True,True
+181,Tiaong,Cabatang,13.9715,121.38896,0.2919560593308006,0.29,High,High,Infected Zone,Infected Zone,84.0,92.16987218577353,True,True,True,True,True,True
+35,Tiaong,Ayusan 1,13.9431656,121.3031371,0.2995992832496953,0.3,High,High,Infected Zone,Infected Zone,86.7,90.2951046322209,True,True,True,True,True,True
+575,Tiaong,Talisay,13.942039,121.371495,0.3031627461189724,0.3,High,High,Infected Zone,Infected Zone,84.8,90.1205841681803,True,True,True,True,True,True
+609,Tiaong,Tamisian,13.950873,121.352678,0.3050707987835973,0.31,High,High,Infected Zone,Infected Zone,84.6,98.82284362539762,True,True,True,True,True,True
+616,Tiaong,Tamisian,13.961234,121.332145,0.31307571019806,0.31,High,High,Infected Zone,Infected Zone,86.6,97.85280065052108,True,True,True,True,True,True
+617,Tiaong,Tamisian,13.942678,121.307654,0.3144271774218817,0.31,High,High,Infected Zone,Infected Zone,86.2,99.34097531231264,True,True,True,True,True,True
+387,Tiaong,Palagaran,13.947722,121.348218,0.3171762300334131,0.32,High,High,Infected Zone,Infected Zone,80.6,91.00667520032239,True,True,True,True,True,True
+297,Tiaong,Lusacan,13.962123,121.337939,0.32923565844445074,0.33,High,High,Infected Zone,Infected Zone,92.5,89.27144208697172,True,True,True,True,True,True
+162,Tiaong,Cabatang,13.97448,121.38791,0.333031189154033,0.33,High,High,Infected Zone,Infected Zone,83.2,91.67921479982024,True,True,True,True,True,True
+174,Tiaong,Cabatang,13.97448,121.38791,0.333031189154033,0.33,High,High,Infected Zone,Infected Zone,83.2,91.73546479982025,True,True,True,True,True,True
+186,Tiaong,Cabatang,13.97448,121.38791,0.333031189154033,0.33,High,High,Infected Zone,Infected Zone,82.9,91.58546479982024,True,True,True,True,True,True
+146,Tiaong,Cabatang,13.97448,121.38791,0.333031189154033,0.33,High,High,Infected Zone,Infected Zone,85.8,99.88546479982024,True,True,True,True,True,True
+182,Tiaong,Cabatang,13.97448,121.38791,0.333031189154033,0.33,High,High,Infected Zone,Infected Zone,87.0,91.84796479982025,True,True,True,True,True,True
+166,Tiaong,Cabatang,13.97448,121.38791,0.333031189154033,0.33,High,High,Infected Zone,Infected Zone,82.9,91.58546479982024,True,True,True,True,True,True
+163,Tiaong,Cabatang,13.97448,121.38791,0.333031189154033,0.33,High,High,Infected Zone,Infected Zone,87.4,92.27921479982024,True,True,True,True,True,True
+155,Tiaong,Cabatang,13.97448,121.38791,0.333031189154033,0.33,High,High,Infected Zone,Infected Zone,83.2,91.73546479982025,True,True,True,True,True,True
+152,Tiaong,Cabatang,13.97448,121.38791,0.333031189154033,0.33,High,High,Infected Zone,Infected Zone,82.0,91.51046479982024,True,True,True,True,True,True
+180,Tiaong,Cabatang,13.97448,121.38791,0.333031189154033,0.33,High,High,Infected Zone,Infected Zone,82.0,91.51046479982024,True,True,True,True,True,True
+176,Tiaong,Cabatang,13.97448,121.38791,0.333031189154033,0.33,High,High,Infected Zone,Infected Zone,82.0,91.51046479982024,True,True,True,True,True,True
+165,Tiaong,Cabatang,13.97448,121.38791,0.333031189154033,0.33,High,High,Infected Zone,Infected Zone,88.4,93.49796479982024,True,True,True,True,True,True
+225,Tiaong,Lagalag,13.958408,121.395499,0.3370693029611958,0.34,High,High,Infected Zone,Infected Zone,100.0,89.68814359908954,True,True,True,True,True,True
+226,Tiaong,Lagalag,13.958408,121.395499,0.3370693029611958,0.34,High,High,Infected Zone,Infected Zone,100.0,89.87564359908954,True,True,True,True,True,True
+223,Tiaong,Lagalag,13.940056,121.376158,0.34185370558787465,0.34,High,High,Infected Zone,Infected Zone,96.2,92.07128007610609,True,True,True,True,True,True
+188,Tiaong,Cabatang,13.974835,121.387359,0.34270695454541034,0.34,High,High,Infected Zone,Infected Zone,83.8,91.74455185264569,True,True,True,True,True,True
+219,Tiaong,Lagalag,13.939986,121.37621,0.35142080394575964,0.35,High,High,Infected Zone,Infected Zone,96.2,91.9875679654746,True,True,True,True,True,True
+224,Tiaong,Lagalag,13.95857,121.395797,0.35790129968296874,0.36,High,High,Infected Zone,Infected Zone,100.0,89.50586362777402,True,True,True,True,True,True
+231,Tiaong,Lagalag,13.958575,121.395798,0.3584640368920051,0.36,High,High,Infected Zone,Infected Zone,100.0,90.11968967719496,True,True,True,True,True,True
+322,Tiaong,Lusacan,13.962741,121.338277,0.3718688538156437,0.37,High,High,Infected Zone,Infected Zone,92.5,89.02965162747378,True,True,True,True,True,True
+164,Tiaong,Cabatang,13.97533,121.38681,0.381626781810799,0.38,High,High,Infected Zone,Infected Zone,81.4,91.19775336407355,True,True,True,True,True,True
+172,Tiaong,Cabatang,13.97525,121.38728,0.38379399755441723,0.38,High,High,Infected Zone,Infected Zone,83.8,91.46004022631688,True,True,True,True,True,True
+39,Tiaong,Ayusan 1,13.9439848,121.3028783,0.38555977005435604,0.39,High,High,Infected Zone,Infected Zone,85.6,94.54295037268012,True,True,True,True,True,True
+628,Tiaong,Tamisian,13.951234,121.353456,0.3976194198895333,0.4,High,High,Infected Zone,Infected Zone,84.6,97.86304319072067,True,True,True,True,True,True
+194,Tiaong,Cabay,13.8741,121.37258,0.4001817562286876,0.4,High,High,Infected Zone,Infected Zone,82.6,86.71183176414652,True,True,True,True,True,True
+332,Tiaong,Lusacan,13.950039,121.346199,0.4107484609323451,0.41,High,High,Infected Zone,Infected Zone,81.0,95.90820506520264,True,True,True,True,True,True
+384,Tiaong,Palagaran,13.947121,121.347341416,0.4289421062424238,0.43,High,High,Infected Zone,Infected Zone,93.6,90.00997378349355,True,True,True,True,True,True
+14,Tiaong,Anastacia,13.964235,121.354467,0.43195839380303686,0.43,High,High,Infected Zone,Infected Zone,85.0,91.15438044766606,True,True,True,True,True,True
+169,Tiaong,Cabatang,13.975671,121.384973,0.43900403454339193,0.44,High,High,Infected Zone,Infected Zone,82.8,91.23945240266335,True,True,True,True,True,True
+386,Tiaong,Palagaran,13.947114,121.34718,0.4413742547099085,0.44,High,High,Infected Zone,Infected Zone,88.6,89.88244248440306,True,True,True,True,True,True
+453,Tiaong,San Jose,13.911159,121.329761,0.4535979472298558,0.45,High,High,Infected Zone,Infected Zone,83.4,90.76441960108302,True,True,True,True,True,True
+206,Tiaong,Del Rosario,13.851224,121.3945834,0.45532602968039604,0.46,High,High,Infected Zone,Infected Zone,87.0,88.79079478128014,True,True,True,True,True,True
+200,Tiaong,Del Rosario,13.8635619,121.3881632,0.48152509027168966,0.48,High,High,Infected Zone,Infected Zone,93.0,86.13655300110632,True,True,True,True,True,True
+611,Tiaong,Tamisian,13.932567,121.310234,0.4953065299885844,0.5,High,High,Infected Zone,Infected Zone,85.4,96.427030977354,True,True,True,True,True,True
+577,Tiaong,Talisay,13.95277,121.3749,0.5000432993082059,0.5,High,High,Infected Zone,Infected Zone,92.2,85.74787932777451,True,True,True,True,True,True
+11,Tiaong,Anastacia,13.967618,121.354291,0.5037913194721311,0.5,High,High,Infected Zone,Infected Zone,85.0,90.03834234806148,True,True,True,True,True,True
+497,Tiaong,San Jose,13.91465,121.33827,0.548561364448414,0.55,High,High,Infected Zone,Infected Zone,90.4,87.78973970042064,True,True,True,True,True,True
+574,Tiaong,Talisay,13.95295,121.37434,0.550406387116398,0.55,High,High,Infected Zone,Infected Zone,92.2,85.30720230945283,True,True,True,True,True,True
+191,Tiaong,Cabay,13.8671611,121.381887,0.5513995140831458,0.55,High,High,Infected Zone,Infected Zone,81.0,85.38867638292001,True,True,True,True,True,True
+378,Tiaong,Palagaran,13.945819,121.346617,0.5895897341441643,0.59,High,High,Infected Zone,Infected Zone,88.6,88.58555703935332,True,True,True,True,True,True
+79,Tiaong,Behia,13.9083421,121.3300393,0.5988971868873668,0.6,High,High,Infected Zone,Infected Zone,88.2,87.8132356803093,True,True,True,True,True,True
+9,Tiaong,Anastacia,13.964493,121.356062,0.5994187956541954,0.6,High,High,Infected Zone,Infected Zone,87.2,89.78285193146841,True,True,True,True,True,True
+295,Tiaong,Lusacan,13.955155,121.351868,0.6050078110497785,0.61,High,High,Infected Zone,Infected Zone,80.8,88.9834357516751,True,True,True,True,True,True
+26,Tiaong,Anastacia,13.969702,121.353314,0.6081193304367328,0.61,High,High,Infected Zone,Infected Zone,80.8,88.65672225212121,True,True,True,True,True,True
+579,Tiaong,Tamisian,13.93553,121.306887,0.611061568753635,0.61,High,High,Infected Zone,Infected Zone,86.0,88.01417438815979,True,True,True,True,True,True
+596,Tiaong,Tamisian,13.93553,121.306887,0.611061568753635,0.61,High,High,Infected Zone,Infected Zone,86.0,88.01417438815979,True,True,True,True,True,True
+203,Tiaong,Del Rosario,13.852715,121.394698,0.6158089964163037,0.62,High,High,Infected Zone,Infected Zone,82.2,87.57406882234095,True,True,True,True,True,True
+3,Tiaong,Anastacia,13.96986,121.353661,0.6422948783505413,0.64,High,High,Infected Zone,Infected Zone,89.2,88.65768620787539,True,True,True,True,True,True
+27,Tiaong,Anastacia,13.96986,121.353661,0.6422948783505413,0.64,High,High,Infected Zone,Infected Zone,84.0,88.35768620787539,True,True,True,True,True,True
+298,Tiaong,Lusacan,13.955911,121.342786,0.6640182648862748,0.66,High,High,Infected Zone,Infected Zone,80.2,88.61709428060576,True,True,True,True,True,True
+615,Tiaong,Tamisian,13.937821,121.318452,0.6645621956246485,0.66,High,High,Infected Zone,Infected Zone,83.4,96.27729390303843,True,True,True,True,True,True
+601,Tiaong,Tamisian,13.935267,121.305756,0.6683378754382007,0.67,High,High,Infected Zone,Infected Zone,85.2,87.51300670466983,True,True,True,True,True,True
+578,Tiaong,Tamisian,13.935267,121.305756,0.6683378754382007,0.67,High,High,Infected Zone,Infected Zone,90.6,87.88800670466983,True,True,True,True,True,True
+81,Tiaong,Behia,13.907235,121.330428,0.6705646792857003,0.67,High,High,Infected Zone,Infected Zone,87.2,87.1861451218239,True,True,True,True,True,True
+622,Tiaong,Tamisian,13.946789,121.302345,0.6798202368696609,0.68,High,High,Infected Zone,Infected Zone,82.4,95.01878604214457,True,True,True,True,True,True
+291,Tiaong,Lumingon,13.956033,121.333982,0.6821321862576629,0.68,High,High,Infected Zone,Infected Zone,97.6,84.26156878008152,True,True,True,True,True,True
+290,Tiaong,Lumingon,13.955972,121.334252,0.6852553593115792,0.69,High,High,Infected Zone,Infected Zone,96.8,84.36549101585975,True,True,True,True,True,True
+303,Tiaong,Lusacan,13.957453,121.348063,0.6875932377921257,0.69,High,High,Infected Zone,Infected Zone,79.4,88.24206326767955,True,True,True,True,True,True
+598,Tiaong,Tamisian,13.93217,121.30787,0.6879756778150417,0.69,High,High,Infected Zone,Infected Zone,84.4,87.35992593387249,True,True,True,True,True,True
+331,Tiaong,Lusacan,13.95885,121.3519633,0.689586959399699,0.69,High,High,Infected Zone,Infected Zone,79.4,88.22461820361329,True,True,True,True,True,True
+160,Tiaong,Cabatang,13.97195,121.37983,0.6982092734430451,0.7,High,High,Infected Zone,Infected Zone,79.4,88.31515656229139,True,True,True,True,True,True
+204,Tiaong,Del Rosario,13.861626,121.390337,0.710832261422634,0.71,High,High,Infected Zone,Infected Zone,84.8,84.05511525353556,True,True,True,True,True,True
+582,Tiaong,Tamisian,13.93178,121.30787,0.7185703892722155,0.72,High,High,Infected Zone,Infected Zone,89.4,87.20472220862221,True,True,True,True,True,True
+207,Tiaong,Del Rosario,13.85359,121.39372,0.7269074578805367,0.73,High,High,Infected Zone,Infected Zone,81.8,86.41445728452891,True,True,True,True,True,True
+129,Tiaong,Bula,13.9493973,121.3193612,0.7303318938512214,0.73,High,High,Infected Zone,Infected Zone,88.2,87.0830590435559,True,True,True,True,True,True
+161,Tiaong,Cabatang,13.977727,121.39007,0.7338081359667885,0.73,High,High,Infected Zone,Infected Zone,80.0,93.35991651520862,True,True,True,True,True,True
+590,Tiaong,Tamisian,13.93466,121.303923,0.7433834664154524,0.74,High,High,Infected Zone,Infected Zone,81.2,87.00635778361888,True,True,True,True,True,True
+327,Tiaong,Lusacan,13.95807,121.351626,0.7674773592180579,0.77,High,High,Infected Zone,Infected Zone,79.0,87.54307720520265,True,True,True,True,True,True
+267,Tiaong,Lagalag,13.939284,121.367946,0.7704052035988659,0.77,High,High,Infected Zone,Infected Zone,94.6,88.24645446850992,True,True,True,True,True,True
+246,Tiaong,Lagalag,13.939284,121.367946,0.7704052035988659,0.77,High,High,Infected Zone,Infected Zone,97.4,88.35895446850992,True,True,True,True,True,True
+363,Tiaong,Palagaran,13.944795,121.345157,0.7781411338675195,0.78,High,High,Infected Zone,Infected Zone,85.8,87.89198229177396,True,True,True,True,True,True
+183,Tiaong,Cabatang,13.97866,121.39001,0.7798178437982095,0.78,High,High,Infected Zone,Infected Zone,84.2,88.6698315716837,True,True,True,True,True,True
+382,Tiaong,Palagaran,13.9445435,121.3452652,0.7913442102276127,0.79,High,High,Infected Zone,Infected Zone,89.8,86.87645537362314,True,True,True,True,True,True
+365,Tiaong,Palagaran,13.94454,121.34522,0.794805088997391,0.79,High,High,Infected Zone,Infected Zone,86.4,87.23992268438758,True,True,True,True,True,True
+227,Tiaong,Lagalag,13.946033,121.38725,0.8003870503127897,0.8,High,High,Infected Zone,Infected Zone,94.0,90.8028633097631,True,True,True,True,True,True
+586,Tiaong,Tamisian,13.94008,121.2978,0.8023225077930439,0.8,High,High,Infected Zone,Infected Zone,80.1,86.50939117156497,True,True,True,True,True,True
+388,Tiaong,Palagaran,13.943789,121.346142,0.8037480607239181,0.8,High,High,Infected Zone,Infected Zone,87.6,86.74917168178047,True,True,True,True,True,True
+494,Tiaong,San Jose,13.9155482,121.3405049,0.8089296773102433,0.81,High,High,Infected Zone,Infected Zone,99.0,85.11776696287963,True,True,True,True,True,True
+316,Tiaong,Lusacan,13.954549,121.341472,0.8105300029492003,0.81,High,High,Infected Zone,Infected Zone,79.0,87.18511657255516,True,True,True,True,True,True
+362,Tiaong,Palagaran,13.944379,121.345138,0.8141165427555186,0.81,High,High,Infected Zone,Infected Zone,85.2,86.60219746400396,True,True,True,True,True,True
+580,Tiaong,Tamisian,13.934022,121.303849,0.8142957635477177,0.81,High,High,Infected Zone,Infected Zone,79.8,86.23587518371157,True,True,True,True,True,True
+366,Tiaong,Palagaran,13.94471,121.34475,0.8151009111028737,0.82,High,High,Infected Zone,Infected Zone,84.2,86.8935842409646,True,True,True,True,True,True
+463,Tiaong,San Jose,13.9159052,121.340449,0.8217518839632856,0.82,High,High,Infected Zone,Infected Zone,97.8,84.96807265466552,True,True,True,True,True,True
+196,Tiaong,Cabay,13.8679,121.37854,0.8227757998407836,0.82,High,High,Infected Zone,Infected Zone,89.4,83.76413388254068,True,True,True,True,True,True
+509,Tiaong,San Jose,13.913869,121.341451,0.8460436916964159,0.85,High,High,Infected Zone,Infected Zone,93.2,86.14301933700062,True,True,True,True,True,True
+289,Tiaong,Lumingon,13.954556,121.333759,0.8473126225630528,0.85,High,High,Infected Zone,Infected Zone,96.6,82.87248996240935,True,True,True,True,True,True
+588,Tiaong,Tamisian,13.935731,121.299624,0.8541014242611995,0.85,High,High,Infected Zone,Infected Zone,80.4,85.8875756524686,True,True,True,True,True,True
+199,Tiaong,Cabay,13.88307,121.37327,0.8621892441020084,0.86,High,High,Infected Zone,Infected Zone,85.6,82.66926624525497,True,True,True,True,True,True
+581,Tiaong,Tamisian,13.93178,121.30608,0.8634409390889531,0.86,High,High,Infected Zone,Infected Zone,86.4,85.82460489772576,True,True,True,True,True,True
+151,Tiaong,Cabatang,13.97088,121.37831,0.8700466415933443,0.87,High,High,Infected Zone,Infected Zone,80.6,87.09282959097627,True,True,True,True,True,True
+293,Tiaong,Lumingon,13.954325,121.333905,0.8705366892208116,0.87,High,High,Infected Zone,Infected Zone,99.4,82.50052937915396,True,True,True,True,True,True
+210,Tiaong,Del Rosario,13.853601,121.384809,0.8734336321595114,0.87,High,High,Infected Zone,Infected Zone,92.6,82.66985325958788,True,True,True,True,True,True
+587,Tiaong,Tamisian,13.937578,121.297979,0.8737138674962706,0.87,High,High,Infected Zone,Infected Zone,79.8,85.71596677416173,True,True,True,True,True,True
+493,Tiaong,San Jose,13.91959,121.33714,0.8810109135831449,0.88,High,High,Infected Zone,Infected Zone,97.0,84.63705614549174,True,True,True,True,True,True
+292,Tiaong,Lumingon,13.954189,121.333682,0.8886963253333497,0.89,High,High,Infected Zone,Infected Zone,99.2,82.34163256316926,True,True,True,True,True,True
+397,Tiaong,San Agustin,13.93711424,121.3207633,0.9003289205690342,0.9,High,High,Infected Zone,Infected Zone,87.4,85.09374079747997,True,True,True,True,True,True
+10,Tiaong,Anastacia,13.966628,121.358697,0.9021470143605699,0.9,High,High,Infected Zone,Infected Zone,81.6,86.59023001778763,True,True,True,True,True,True
+379,Tiaong,Palagaran,13.943812,121.344427,0.9118008857006928,0.91,High,High,Infected Zone,Infected Zone,81.2,85.7474594632337,True,True,True,True,True,True
+171,Tiaong,Cabatang,13.972,121.377825,0.9148795985146746,0.91,High,High,Infected Zone,Infected Zone,79.0,86.43804121791463,True,True,True,True,True,True
+308,Tiaong,Lusacan,13.946974,121.34212,0.9149501573076129,0.91,High,High,Infected Zone,Infected Zone,82.2,86.25269022191904,True,True,True,True,True,True
+624,Tiaong,Tamisian,13.932345,121.319876,0.9231863793414348,0.92,High,High,Infected Zone,Infected Zone,82.4,94.01433229551654,True,True,True,True,True,True
+117,Tiaong,Bula,13.9281386,121.3136429,0.9319561906631538,0.93,High,High,Infected Zone,Infected Zone,79.8,85.2063464464515,True,True,True,True,True,True
+602,Tiaong,Tamisian,13.93994,121.296446,0.9492305055605819,0.95,High,High,Infected Zone,Infected Zone,79.2,85.05519619109901,True,True,True,True,True,True
+138,Tiaong,Bulakin,13.9726987,121.33613,0.952650473928286,0.95,High,High,Infected Zone,Infected Zone,87.6,84.37014851706192,True,True,True,True,True,True
+78,Tiaong,Behia,13.904462,121.330038,0.9603538680110839,0.96,High,High,Infected Zone,Infected Zone,88.4,84.66923972047678,True,True,True,True,True,True
+145,Tiaong,Bulakin,13.9734003,121.3355989,0.9605260196895653,0.96,High,High,Infected Zone,Infected Zone,92.0,89.48873749165074,True,True,True,True,True,True
+144,Tiaong,Bulakin,13.9734003,121.3355989,0.9605260196895653,0.96,High,High,Infected Zone,Infected Zone,91.8,84.31998749165074,True,True,True,True,True,True
+143,Tiaong,Bulakin,13.9734003,121.3355989,0.9605260196895653,0.96,High,High,Infected Zone,Infected Zone,94.4,84.45123749165073,True,True,True,True,True,True
+139,Tiaong,Bulakin,13.9734003,121.3355989,0.9605260196895653,0.96,High,High,Infected Zone,Infected Zone,93.6,84.48873749165072,True,True,True,True,True,True
+142,Tiaong,Bulakin,13.9734003,121.3355989,0.9605260196895653,0.96,High,High,Infected Zone,Infected Zone,90.0,84.26373749165073,True,True,True,True,True,True
+364,Tiaong,Palagaran,13.94278,121.34499,0.9649810088922318,0.96,High,High,Infected Zone,Infected Zone,90.8,82.78213338530773,True,True,True,True,True,True
+592,Tiaong,Tamisian,13.938835,121.296535,0.9665340211703043,0.97,High,High,Infected Zone,Infected Zone,79.2,84.90379042951393,True,True,True,True,True,True
+249,Tiaong,Lagalag,13.937978,121.366548,0.9730745384229074,0.97,High,High,Infected Zone,Infected Zone,89.0,86.60434778879956,True,True,True,True,True,True
+380,Tiaong,Palagaran,13.94447,121.342936,0.978266644627602,0.98,High,High,Infected Zone,Infected Zone,82.6,85.59713407262323,True,True,True,True,True,True
+614,Tiaong,Tamisian,13.933456,121.320987,0.9807039274884092,0.98,High,High,Infected Zone,Infected Zone,83.6,93.51105374923051,True,True,True,True,True,True
+411,Tiaong,San Agustin,13.946783,121.318058,0.9895075373549448,0.99,High,High,Infected Zone,Infected Zone,86.8,84.31342790060324,True,True,True,True,True,True
+584,Tiaong,Tamisian,13.936082,121.297565,0.9986443787749752,1.0,High,High,Infected Zone,Infected Zone,80.1,89.75407480047306,True,True,True,True,True,True
+437,Tiaong,San Isidro,13.945853,121.341763,1.0013742203642955,1.0,Moderate,Moderate,Buffer Zone,Buffer Zone,69.1,68.90496314175016,True,True,True,True,True,True
+422,Tiaong,San Isidro,13.945853,121.341763,1.0013742203642955,1.0,Moderate,Moderate,Buffer Zone,Buffer Zone,69.0,68.92371314175016,True,True,True,True,True,True
+420,Tiaong,San Isidro,13.945853,121.341763,1.0013742203642955,1.0,Moderate,Moderate,Buffer Zone,Buffer Zone,73.4,68.96121314175016,True,True,True,True,True,True
+417,Tiaong,San Isidro,13.945853,121.341763,1.0013742203642955,1.0,Moderate,Moderate,Buffer Zone,Buffer Zone,71.1,69.76746314175016,True,True,True,True,True,True
+424,Tiaong,San Isidro,13.945853,121.341763,1.0013742203642955,1.0,Moderate,Moderate,Buffer Zone,Buffer Zone,65.7,68.86746314175016,True,True,True,True,True,True
+436,Tiaong,San Isidro,13.945853,121.341763,1.0013742203642955,1.0,Moderate,Moderate,Buffer Zone,Buffer Zone,64.2,68.84871314175015,True,True,True,True,True,True
+439,Tiaong,San Isidro,13.945853,121.341763,1.0013742203642955,1.0,Moderate,Moderate,Buffer Zone,Buffer Zone,64.2,68.84871314175015,True,True,True,True,True,True
+427,Tiaong,San Isidro,13.945853,121.341763,1.0013742203642955,1.0,Moderate,Moderate,Buffer Zone,Buffer Zone,65.7,68.86746314175016,True,True,True,True,True,True
+423,Tiaong,San Isidro,13.945853,121.341763,1.0013742203642955,1.0,Moderate,Moderate,Buffer Zone,Buffer Zone,71.7,69.11121314175016,True,True,True,True,True,True
+442,Tiaong,San Isidro,13.945853,121.341763,1.0013742203642955,1.0,Moderate,Moderate,Buffer Zone,Buffer Zone,70.3,69.41121314175015,True,True,True,True,True,True
+426,Tiaong,San Isidro,13.945853,121.341763,1.0013742203642955,1.0,Moderate,Moderate,Buffer Zone,Buffer Zone,64.2,68.84871314175015,True,True,True,True,True,True
+425,Tiaong,San Isidro,13.945853,121.341763,1.0013742203642955,1.0,Moderate,Moderate,Buffer Zone,Buffer Zone,69.1,68.88621314175016,True,True,True,True,True,True
+443,Tiaong,San Isidro,13.945853,121.341763,1.0013742203642955,1.0,Moderate,Moderate,Buffer Zone,Buffer Zone,69.0,68.92371314175016,True,True,True,True,True,True
+435,Tiaong,San Isidro,13.945853,121.341763,1.0013742203642955,1.0,Moderate,Moderate,Buffer Zone,Buffer Zone,71.0,69.07371314175016,True,True,True,True,True,True
+429,Tiaong,San Isidro,13.945853,121.341763,1.0013742203642955,1.0,Moderate,Moderate,Buffer Zone,Buffer Zone,74.8,68.97996314175016,True,True,True,True,True,True
+438,Tiaong,San Isidro,13.945853,121.341763,1.0013742203642955,1.0,Moderate,Moderate,Buffer Zone,Buffer Zone,69.1,68.90496314175016,True,True,True,True,True,True
+234,Tiaong,Lagalag,13.94982,121.387962,1.0066481085447372,1.01,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,67.42155484170559,True,True,True,True,True,True
+119,Tiaong,Bula,13.9274695,121.3137847,1.0074008602578202,1.01,Moderate,Moderate,Buffer Zone,Buffer Zone,55.5,68.53767019354478,True,True,True,True,True,True
+591,Tiaong,Tamisian,13.938485,121.296227,1.0096972528362949,1.01,Moderate,Moderate,Buffer Zone,Buffer Zone,63.4,68.51557128770116,True,True,True,True,True,True
+247,Tiaong,Lagalag,13.935519,121.368202,1.014310020768758,1.01,Moderate,Moderate,Buffer Zone,Buffer Zone,65.6,69.87288121971223,True,True,True,True,True,True
+400,Tiaong,San Agustin,13.935146,121.321791,1.019441503368262,1.02,Moderate,Moderate,Buffer Zone,Buffer Zone,67.9,67.94326666004696,True,True,True,True,True,True
+372,Tiaong,Palagaran,13.942007,121.345191,1.025715831785284,1.03,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,66.20696495842787,True,True,True,True,True,True
+381,Tiaong,Palagaran,13.942007,121.345191,1.025715831785284,1.03,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,66.37571495842788,True,True,True,True,True,True
+359,Tiaong,Palagaran,13.942007,121.345191,1.025715831785284,1.03,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,66.20696495842787,True,True,True,True,True,True
+385,Tiaong,Palagaran,13.942007,121.345191,1.025715831785284,1.03,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,66.18821495842788,True,True,True,True,True,True
+369,Tiaong,Palagaran,13.942007,121.345191,1.025715831785284,1.03,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,66.18821495842788,True,True,True,True,True,True
+597,Tiaong,Tamisian,13.939565,121.295725,1.0330570210769865,1.03,Moderate,Moderate,Buffer Zone,Buffer Zone,63.7,68.83775495901682,True,True,True,True,True,True
+360,Tiaong,Palagaran,13.941881,121.345044,1.0458035669150212,1.05,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,66.15892034469701,True,True,True,True,True,True
+398,Tiaong,San Agustin,13.9340133,121.3218173,1.0477407870892832,1.05,Moderate,Moderate,Buffer Zone,Buffer Zone,69.6,67.92074687128715,True,True,True,True,True,True
+406,Tiaong,San Agustin,13.9340133,121.3218173,1.0477407870892832,1.05,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,68.20199687128715,True,True,True,True,True,True
+401,Tiaong,San Agustin,13.9340133,121.3218173,1.0477407870892832,1.05,Moderate,Moderate,Buffer Zone,Buffer Zone,69.6,67.90199687128714,True,True,True,True,True,True
+405,Tiaong,San Agustin,13.9340133,121.3218173,1.0477407870892832,1.05,Moderate,Moderate,Buffer Zone,Buffer Zone,69.6,67.90199687128714,True,True,True,True,True,True
+407,Tiaong,San Agustin,13.9340133,121.3218173,1.0477407870892832,1.05,Moderate,Moderate,Buffer Zone,Buffer Zone,73.6,68.16449687128714,True,True,True,True,True,True
+395,Tiaong,San Agustin,13.9340133,121.3218173,1.0477407870892832,1.05,Moderate,Moderate,Buffer Zone,Buffer Zone,69.6,67.90199687128714,True,True,True,True,True,True
+399,Tiaong,San Agustin,13.9340133,121.3218173,1.0477407870892832,1.05,Moderate,Moderate,Buffer Zone,Buffer Zone,70.6,67.95824687128714,True,True,True,True,True,True
+410,Tiaong,San Agustin,13.9340133,121.3218173,1.0477407870892832,1.05,Moderate,Moderate,Buffer Zone,Buffer Zone,69.6,67.92074687128715,True,True,True,True,True,True
+409,Tiaong,San Agustin,13.9340133,121.3218173,1.0477407870892832,1.05,Moderate,Moderate,Buffer Zone,Buffer Zone,70.6,67.97699687128714,True,True,True,True,True,True
+396,Tiaong,San Agustin,13.9340133,121.3218173,1.0477407870892832,1.05,Moderate,Moderate,Buffer Zone,Buffer Zone,69.6,67.92074687128715,True,True,True,True,True,True
+394,Tiaong,San Agustin,13.9340133,121.3218173,1.0477407870892832,1.05,Moderate,Moderate,Buffer Zone,Buffer Zone,69.6,67.92074687128715,True,True,True,True,True,True
+392,Tiaong,San Agustin,13.9340133,121.3218173,1.0477407870892832,1.05,Moderate,Moderate,Buffer Zone,Buffer Zone,69.6,67.90199687128714,True,True,True,True,True,True
+402,Tiaong,San Agustin,13.9340133,121.3218173,1.0477407870892832,1.05,Moderate,Moderate,Buffer Zone,Buffer Zone,69.6,67.92074687128715,True,True,True,True,True,True
+403,Tiaong,San Agustin,13.9340133,121.3218173,1.0477407870892832,1.05,Moderate,Moderate,Buffer Zone,Buffer Zone,69.6,67.92074687128715,True,True,True,True,True,True
+404,Tiaong,San Agustin,13.9340133,121.3218173,1.0477407870892832,1.05,Moderate,Moderate,Buffer Zone,Buffer Zone,70.6,67.97699687128714,True,True,True,True,True,True
+393,Tiaong,San Agustin,13.9340133,121.3218173,1.0477407870892832,1.05,Moderate,Moderate,Buffer Zone,Buffer Zone,70.6,67.93949687128715,True,True,True,True,True,True
+217,Tiaong,Lagalag,13.943845,121.364647,1.0485732644444348,1.05,Moderate,Moderate,Buffer Zone,Buffer Zone,74.5,69.86041398935187,True,True,True,True,True,True
+376,Tiaong,Palagaran,13.941868,121.345005,1.049201033390131,1.05,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,66.17271570608747,True,True,True,True,True,True
+179,Tiaong,Cabatang,13.96233,121.35998,1.060440424128983,1.06,Moderate,Moderate,Buffer Zone,Buffer Zone,57.5,69.50509541972994,True,True,True,True,True,True
+124,Tiaong,Bula,13.9294475,121.305768,1.062187204467496,1.06,Moderate,Moderate,Buffer Zone,Buffer Zone,56.8,68.27027344157233,True,True,True,True,True,True
+390,Tiaong,QUIPOT,13.9579579,121.3181707,1.0637961943685599,1.06,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,67.59825486681908,True,True,True,True,True,True
+389,Tiaong,QUIPOT,13.9579579,121.3181707,1.0637961943685599,1.06,Moderate,Moderate,Buffer Zone,Buffer Zone,74.2,67.46700486681908,True,True,True,True,True,True
+391,Tiaong,QUIPOT,13.9579579,121.3181707,1.0637961943685599,1.06,Moderate,Moderate,Buffer Zone,Buffer Zone,72.3,67.44825486681907,True,True,True,True,True,True
+599,Tiaong,Tamisian,13.93676,121.29641,1.065906671611543,1.07,Moderate,Moderate,Buffer Zone,Buffer Zone,55.3,68.43359921865394,True,True,True,True,True,True
+248,Tiaong,Lagalag,13.937364,121.365919,1.066626627960166,1.07,Moderate,Moderate,Buffer Zone,Buffer Zone,67.9,69.89033616755809,True,True,True,True,True,True
+177,Tiaong,Cabatang,13.96226,121.36009,1.0739870142686947,1.07,Moderate,Moderate,Buffer Zone,Buffer Zone,57.5,69.37283997577619,True,True,True,True,True,True
+33,Tiaong,Anastacia,13.974478,121.348731,1.0748076842323933,1.07,Moderate,Moderate,Buffer Zone,Buffer Zone,55.1,73.88742185393704,True,True,True,True,True,True
+585,Tiaong,Tamisian,13.934802,121.297562,1.0865738118767787,1.09,Moderate,Moderate,Buffer Zone,Buffer Zone,61.9,68.62845963910047,True,True,True,True,True,True
+121,Tiaong,Bula,13.9293348,121.305552,1.0872427250296353,1.09,Moderate,Moderate,Buffer Zone,Buffer Zone,56.8,68.23373414075255,True,True,True,True,True,True
+178,Tiaong,Cabatang,13.96234,121.36026,1.08930547025189,1.09,Moderate,Moderate,Buffer Zone,Buffer Zone,55.0,69.31300056080069,True,True,True,True,True,True
+595,Tiaong,Tamisian,13.938718,121.295209,1.1080780359629079,1.11,Moderate,Moderate,Buffer Zone,Buffer Zone,55.4,68.22209931230819,True,True,True,True,True,True
+309,Tiaong,Lusacan,13.946932,121.340228,1.109159623067835,1.11,Moderate,Moderate,Buffer Zone,Buffer Zone,59.2,69.15556298138674,True,True,True,True,True,True
+383,Tiaong,Palagaran,13.943473,121.342146,1.1143460026338627,1.11,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,66.13396262594037,True,True,True,True,True,True
+20,Tiaong,Anastacia,13.966645,121.360802,1.1258908198780024,1.13,Moderate,Moderate,Buffer Zone,Buffer Zone,54.5,68.96292561445387,True,True,True,True,True,True
+502,Tiaong,San Jose,13.942417,121.32997,1.1308675056774562,1.13,Moderate,Moderate,Buffer Zone,Buffer Zone,68.5,66.94880319356464,True,True,True,True,True,True
+573,Tiaong,Talisay,13.945644,121.359702,1.1538514846756667,1.15,Moderate,Moderate,Buffer Zone,Buffer Zone,70.4,67.39889144823596,True,True,True,True,True,True
+572,Tiaong,Talisay,13.945644,121.359702,1.1538514846756667,1.15,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,68.69264144823597,True,True,True,True,True,True
+576,Tiaong,Talisay,13.945644,121.359702,1.1538514846756667,1.15,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,68.13014144823597,True,True,True,True,True,True
+40,Tiaong,Ayusan 1,13.951524,121.307157,1.1549333179570032,1.15,Moderate,Moderate,Buffer Zone,Buffer Zone,67.3,67.67190393863511,True,True,True,True,True,True
+34,Tiaong,Ayusan 1,13.951524,121.307157,1.1549333179570032,1.15,Moderate,Moderate,Buffer Zone,Buffer Zone,67.3,67.69065393863511,True,True,True,True,True,True
+42,Tiaong,Ayusan 1,13.951524,121.307157,1.1549333179570032,1.15,Moderate,Moderate,Buffer Zone,Buffer Zone,68.3,67.7094039386351,True,True,True,True,True,True
+43,Tiaong,Ayusan 1,13.951524,121.307157,1.1549333179570032,1.15,Moderate,Moderate,Buffer Zone,Buffer Zone,67.3,67.67190393863511,True,True,True,True,True,True
+49,Tiaong,Ayusan 1,13.951524,121.307157,1.1549333179570032,1.15,Moderate,Moderate,Buffer Zone,Buffer Zone,74.9,68.49690393863511,True,True,True,True,True,True
+137,Tiaong,Bula,13.92881,121.319717,1.1558638963335135,1.16,Moderate,Moderate,Buffer Zone,Buffer Zone,59.0,68.24616159926772,True,True,True,True,True,True
+135,Tiaong,Bula,13.92881,121.319717,1.1558638963335135,1.16,Moderate,Moderate,Buffer Zone,Buffer Zone,61.4,68.28366159926773,True,True,True,True,True,True
+134,Tiaong,Bula,13.92881,121.319717,1.1558638963335135,1.16,Moderate,Moderate,Buffer Zone,Buffer Zone,59.0,68.17116159926772,True,True,True,True,True,True
+132,Tiaong,Bula,13.92881,121.319717,1.1558638963335135,1.16,Moderate,Moderate,Buffer Zone,Buffer Zone,59.0,68.18991159926773,True,True,True,True,True,True
+116,Tiaong,Bula,13.92881,121.319717,1.1558638963335135,1.16,Moderate,Moderate,Buffer Zone,Buffer Zone,58.4,68.13366159926773,True,True,True,True,True,True
+122,Tiaong,Bula,13.92881,121.319717,1.1558638963335135,1.16,Moderate,Moderate,Buffer Zone,Buffer Zone,61.4,68.30241159926773,True,True,True,True,True,True
+125,Tiaong,Bula,13.92881,121.319717,1.1558638963335135,1.16,Moderate,Moderate,Buffer Zone,Buffer Zone,58.4,68.13366159926773,True,True,True,True,True,True
+131,Tiaong,Bula,13.92881,121.319717,1.1558638963335135,1.16,Moderate,Moderate,Buffer Zone,Buffer Zone,58.4,68.13366159926773,True,True,True,True,True,True
+114,Tiaong,Bula,13.92881,121.319717,1.1558638963335135,1.16,Moderate,Moderate,Buffer Zone,Buffer Zone,61.4,68.30241159926773,True,True,True,True,True,True
+115,Tiaong,Bula,13.92881,121.319717,1.1558638963335135,1.16,Moderate,Moderate,Buffer Zone,Buffer Zone,58.4,68.13366159926773,True,True,True,True,True,True
+113,Tiaong,Bula,13.92881,121.319717,1.1558638963335135,1.16,Moderate,Moderate,Buffer Zone,Buffer Zone,68.2,68.86491159926773,True,True,True,True,True,True
+55,Tiaong,Ayusan 2,13.940488,121.294387,1.1634200551908978,1.16,Moderate,Moderate,Buffer Zone,Buffer Zone,74.5,68.12715039765536,True,True,True,True,True,True
+56,Tiaong,Ayusan 2,13.940488,121.294387,1.1634200551908978,1.16,Moderate,Moderate,Buffer Zone,Buffer Zone,66.8,67.60215039765535,True,True,True,True,True,True
+594,Tiaong,Tamisian,13.942086,121.294307,1.1722204151448632,1.17,Moderate,Moderate,Buffer Zone,Buffer Zone,54.4,68.10980834266783,True,True,True,True,True,True
+61,Tiaong,Ayusan 2,13.941173,121.294083,1.193052201585404,1.19,Moderate,Moderate,Buffer Zone,Buffer Zone,63.8,67.57768685083002,True,True,True,True,True,True
+118,Tiaong,Bula,13.9257176,121.3099315,1.2218301129831222,1.22,Moderate,Moderate,Buffer Zone,Buffer Zone,57.0,68.20621086665372,True,True,True,True,True,True
+140,Tiaong,Bulakin,13.97497,121.337445,1.2247199753590028,1.22,Moderate,Moderate,Buffer Zone,Buffer Zone,63.6,67.35937353320254,True,True,True,True,True,True
+415,Tiaong,San Francisco,13.8852,121.3627,1.2428320415308316,1.24,Moderate,Moderate,Buffer Zone,Buffer Zone,59.6,64.72609534927027,True,True,True,True,True,True
+416,Tiaong,San Francisco,13.8852,121.3627,1.2428320415308316,1.24,Moderate,Moderate,Buffer Zone,Buffer Zone,59.6,64.72609534927027,True,True,True,True,True,True
+414,Tiaong,San Francisco,13.8852,121.3627,1.2428320415308316,1.24,Moderate,Moderate,Buffer Zone,Buffer Zone,61.8,64.74484534927026,True,True,True,True,True,True
+412,Tiaong,San Francisco,13.8852,121.3627,1.2428320415308316,1.24,Moderate,Moderate,Buffer Zone,Buffer Zone,66.9,69.83859534927026,True,True,True,True,True,True
+141,Tiaong,Bulakin,13.9734003,121.339004,1.251448683676027,1.25,Moderate,Moderate,Buffer Zone,Buffer Zone,59.7,67.32039416690688,True,True,True,True,True,True
+120,Tiaong,Bula,13.9275084,121.3050427,1.2758046959174432,1.28,Moderate,Moderate,Buffer Zone,Buffer Zone,57.2,67.95874793320783,True,True,True,True,True,True
+455,Tiaong,San Jose,13.92342,121.3303,1.2829673015381462,1.28,Moderate,Moderate,Buffer Zone,Buffer Zone,71.6,69.3957409912678,True,True,True,True,True,True
+59,Tiaong,Ayusan 2,13.9457883,121.2941672,1.2848443280048962,1.28,Moderate,Moderate,Buffer Zone,Buffer Zone,62.4,67.46257333313494,True,True,True,True,True,True
+488,Tiaong,San Jose,13.92344,121.33025,1.2866756085827373,1.29,Moderate,Moderate,Buffer Zone,Buffer Zone,68.0,69.24033304349445,True,True,True,True,True,True
+377,Tiaong,Palagaran,13.93814,121.350327,1.312651660065521,1.31,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,65.8447668755192,True,True,True,True,True,True
+126,Tiaong,Bula,13.9265716,121.305599,1.323445101407004,1.32,Moderate,Moderate,Buffer Zone,Buffer Zone,57.2,67.88927234186889,True,True,True,True,True,True
+123,Tiaong,Bula,13.9270047,121.3049688,1.3245013227301625,1.32,Moderate,Moderate,Buffer Zone,Buffer Zone,57.2,67.90648201910594,True,True,True,True,True,True
+470,Tiaong,San Jose,13.9120294,121.3461009,1.331790226242149,1.33,Moderate,Moderate,Buffer Zone,Buffer Zone,72.1,66.65579089274112,True,True,True,True,True,True
+629,Tiaong,Tamisian,13.939876,121.32789,1.3341658656373274,1.33,Moderate,Moderate,Buffer Zone,Buffer Zone,68.2,74.104887894033,True,True,True,True,True,True
+452,Tiaong,San Jose,13.92402,121.33007,1.3537281037469842,1.35,Moderate,Moderate,Buffer Zone,Buffer Zone,64.3,69.42379815471324,True,True,True,True,True,True
+465,Tiaong,San Jose,13.924,121.32948,1.3718917237836517,1.37,Moderate,Moderate,Buffer Zone,Buffer Zone,62.2,69.09730954215976,True,True,True,True,True,True
+623,Tiaong,Tamisian,13.940987,121.358765,1.3753030013850653,1.38,Moderate,Moderate,Buffer Zone,Buffer Zone,61.2,75.0,True,True,True,True,True,True
+28,Tiaong,Anastacia,13.974004,121.359284,1.3796583984002613,1.38,Moderate,Moderate,Buffer Zone,Buffer Zone,53.9,68.46159789577558,True,True,True,True,True,True
+489,Tiaong,San Jose,13.9244,121.33007,1.3939379083721917,1.39,Moderate,Moderate,Buffer Zone,Buffer Zone,66.4,69.06515885630148,True,True,True,True,True,True
+454,Tiaong,San Jose,13.92439,121.32988,1.3989304861901077,1.4,Moderate,Moderate,Buffer Zone,Buffer Zone,70.9,69.13287801365036,True,True,True,True,True,True
+375,Tiaong,Palagaran,13.93731,121.350608,1.405542505182946,1.41,Moderate,Moderate,Buffer Zone,Buffer Zone,70.0,65.63430105972296,True,True,True,True,True,True
+457,Tiaong,San Jose,13.92517,121.33186,1.4352663691132213,1.44,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,66.52363818438748,True,True,True,True,True,True
+619,Tiaong,Tamisian,13.938765,121.325678,1.4355383675468907,1.44,Moderate,Moderate,Buffer Zone,Buffer Zone,68.4,72.45705299541488,True,True,True,True,True,True
+441,Tiaong,San Isidro,13.944616,121.337883,1.4384782899575272,1.44,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,65.9362697069267,True,True,True,True,True,True
+440,Tiaong,San Isidro,13.944616,121.337883,1.4384782899575272,1.44,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,66.5925197069267,True,True,True,True,True,True
+127,Tiaong,Bula,13.9266952,121.3035005,1.452331777537153,1.45,Moderate,Moderate,Buffer Zone,Buffer Zone,58.0,67.70131260584574,True,True,True,True,True,True
+192,Tiaong,Cabay,13.882091,121.381552,1.4530628863174762,1.45,Moderate,Moderate,Buffer Zone,Buffer Zone,66.3,64.55270542193456,True,True,True,True,True,True
+456,Tiaong,San Jose,13.9253,121.33116,1.4622581435589894,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,62.2,68.9655251799874,True,True,True,True,True,True
+481,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,71.5,74.00223414194133,True,True,True,True,True,True
+479,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,74.0,68.98348414194135,True,True,True,True,True,True
+478,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,69.13348414194134,True,True,True,True,True,True
+477,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,69.20848414194134,True,True,True,True,True,True
+475,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,74.0,68.98348414194135,True,True,True,True,True,True
+476,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,69.69598414194134,True,True,True,True,True,True
+474,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,72.9,68.96473414194134,True,True,True,True,True,True
+473,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,72.9,68.96473414194134,True,True,True,True,True,True
+499,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,74.0,68.98348414194135,True,True,True,True,True,True
+504,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,72.9,68.96473414194134,True,True,True,True,True,True
+503,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,72.9,68.96473414194134,True,True,True,True,True,True
+501,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,72.9,68.96473414194134,True,True,True,True,True,True
+496,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,72.9,68.96473414194134,True,True,True,True,True,True
+487,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,69.09598414194133,True,True,True,True,True,True
+486,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,69.09598414194133,True,True,True,True,True,True
+482,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,69.00223414194133,True,True,True,True,True,True
+468,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,72.9,68.96473414194134,True,True,True,True,True,True
+467,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,72.9,68.96473414194134,True,True,True,True,True,True
+466,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,72.9,68.96473414194134,True,True,True,True,True,True
+464,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,74.0,68.98348414194135,True,True,True,True,True,True
+461,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,72.9,68.96473414194134,True,True,True,True,True,True
+462,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,69.86473414194134,True,True,True,True,True,True
+458,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,69.33973414194134,True,True,True,True,True,True
+459,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,69.02098414194134,True,True,True,True,True,True
+485,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,69.09598414194133,True,True,True,True,True,True
+483,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,69.24598414194134,True,True,True,True,True,True
+498,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,69.60223414194134,True,True,True,True,True,True
+492,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,72.9,68.96473414194134,True,True,True,True,True,True
+495,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,69.13348414194134,True,True,True,True,True,True
+491,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,74.0,68.98348414194135,True,True,True,True,True,True
+490,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,74.0,68.98348414194135,True,True,True,True,True,True
+508,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,69.50848414194134,True,True,True,True,True,True
+449,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,74.8,74.17098414194135,True,True,True,True,True,True
+448,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,72.2,74.69598414194134,True,True,True,True,True,True
+472,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,72.9,68.96473414194134,True,True,True,True,True,True
+471,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,69.15223414194134,True,True,True,True,True,True
+450,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,70.3,73.98348414194135,True,True,True,True,True,True
+451,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,69.37723414194133,True,True,True,True,True,True
+505,Tiaong,San Jose,13.9251,121.33026,1.4628005696477193,1.46,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,69.09598414194133,True,True,True,True,True,True
+480,Tiaong,San Jose,13.92466,121.32882,1.4653767395416604,1.47,Moderate,Moderate,Buffer Zone,Buffer Zone,66.4,69.11097722751268,True,True,True,True,True,True
+370,Tiaong,Palagaran,13.936692,121.35042,1.4730801635408841,1.47,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,65.5733086412843,True,True,True,True,True,True
+128,Tiaong,Bula,13.9265277,121.3033997,1.4734143091749583,1.47,Moderate,Moderate,Buffer Zone,Buffer Zone,58.0,67.67056724720729,True,True,True,True,True,True
+47,Tiaong,Ayusan 1,13.9533659,121.3121461,1.473442897094207,1.47,Moderate,Moderate,Buffer Zone,Buffer Zone,67.4,67.24491080239335,True,True,True,True,True,True
+418,Tiaong,San Isidro,13.941311,121.334236,1.4785707249047577,1.48,Moderate,Moderate,Buffer Zone,Buffer Zone,72.4,66.19655157262865,True,True,True,True,True,True
+48,Tiaong,Ayusan 1,13.9532825,121.3120726,1.4802339931982589,1.48,Moderate,Moderate,Buffer Zone,Buffer Zone,66.2,67.19750712057494,True,True,True,True,True,True
+528,Tiaong,San Pedro,13.966375,121.31311,1.4857507868208015,1.49,Moderate,Moderate,Buffer Zone,Buffer Zone,68.8,64.66026097686994,True,True,True,True,True,True
+600,Tiaong,Tamisian,13.937149,121.291841,1.5061636152039772,1.51,Moderate,Moderate,Buffer Zone,Buffer Zone,57.2,67.66030784258163,True,True,True,True,True,True
+610,Tiaong,Tamisian,13.938421,121.328745,1.5103597240717177,1.51,Moderate,Moderate,Buffer Zone,Buffer Zone,70.1,72.4041885171495,True,True,True,True,True,True
+374,Tiaong,Palagaran,13.93627333,121.349725,1.5189926568350762,1.52,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,65.52510292189693,True,True,True,True,True,True
+506,Tiaong,San Jose,13.92547,121.32956,1.5232895705434168,1.52,Moderate,Moderate,Buffer Zone,Buffer Zone,65.3,69.23277101563511,True,True,True,True,True,True
+428,Tiaong,San Isidro,13.938243,121.329187,1.540628085951747,1.54,Moderate,Moderate,Buffer Zone,Buffer Zone,71.9,65.56230125443513,True,True,True,True,True,True
+58,Tiaong,Ayusan 2,13.94122,121.29082,1.5456143613253195,1.55,Moderate,Moderate,Buffer Zone,Buffer Zone,67.6,67.04478370120933,True,True,True,True,True,True
+57,Tiaong,Ayusan 2,13.94122,121.29082,1.5456143613253195,1.55,Moderate,Moderate,Buffer Zone,Buffer Zone,67.6,67.04478370120933,True,True,True,True,True,True
+54,Tiaong,Ayusan 2,13.94122,121.29082,1.5456143613253195,1.55,Moderate,Moderate,Buffer Zone,Buffer Zone,70.8,67.25103370120931,True,True,True,True,True,True
+52,Tiaong,Ayusan 2,13.94122,121.29082,1.5456143613253195,1.55,Moderate,Moderate,Buffer Zone,Buffer Zone,67.6,67.06353370120931,True,True,True,True,True,True
+53,Tiaong,Ayusan 2,13.94122,121.29082,1.5456143613253195,1.55,Moderate,Moderate,Buffer Zone,Buffer Zone,67.6,67.04478370120933,True,True,True,True,True,True
+51,Tiaong,Ayusan 2,13.94122,121.29082,1.5456143613253195,1.55,Moderate,Moderate,Buffer Zone,Buffer Zone,67.6,67.04478370120933,True,True,True,True,True,True
+50,Tiaong,Ayusan 2,13.94122,121.29082,1.5456143613253195,1.55,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,67.90728370120931,True,True,True,True,True,True
+342,Tiaong,Paiisa,13.936852,121.354852,1.5462825707125243,1.55,Moderate,Moderate,Buffer Zone,Buffer Zone,59.4,73.583051032465,True,True,True,True,True,True
+613,Tiaong,Tamisian,13.939876,121.359876,1.5471101863252883,1.55,Moderate,Moderate,Buffer Zone,Buffer Zone,61.2,75.0,True,True,True,True,True,True
+185,Tiaong,Cabatang,13.96736,121.3647,1.5543934970190028,1.55,Moderate,Moderate,Buffer Zone,Buffer Zone,61.9,68.99099718843199,True,True,True,True,True,True
+77,Tiaong,Behia,13.8984391,121.336573,1.5666244313146482,1.57,Moderate,Moderate,Buffer Zone,Buffer Zone,68.8,72.39600876990657,True,True,True,True,True,True
+434,Tiaong,San Isidro,13.937829,121.329413,1.5910808245571006,1.59,Moderate,Moderate,Buffer Zone,Buffer Zone,71.9,65.48872434396898,True,True,True,True,True,True
+419,Tiaong,San Isidro,13.941551,121.336137,1.5961323284982676,1.6,Moderate,Moderate,Buffer Zone,Buffer Zone,74.4,66.19385756738811,True,True,True,True,True,True
+343,Tiaong,Paiisa,13.936614,121.355825,1.6092241458027705,1.61,Moderate,Moderate,Buffer Zone,Buffer Zone,59.3,72.77876123545839,True,True,True,True,True,True
+373,Tiaong,Palagaran,13.935452,121.3499,1.609609114200607,1.61,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,65.3742039215722,True,True,True,True,True,True
+371,Tiaong,Palagaran,13.935445,121.349905,1.6103800327584412,1.61,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,65.39182966534203,True,True,True,True,True,True
+433,Tiaong,San Isidro,13.939271,121.333394,1.6118348911047233,1.61,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,65.47720799692037,True,True,True,True,True,True
+432,Tiaong,San Isidro,13.939271,121.333394,1.6118348911047233,1.61,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,65.90845799692036,True,True,True,True,True,True
+446,Tiaong,San Isidro,13.942313,121.337235,1.6204908879818618,1.62,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,65.65208466814121,True,True,True,True,True,True
+444,Tiaong,San Isidro,13.942313,121.337235,1.6204908879818618,1.62,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,65.65208466814121,True,True,True,True,True,True
+445,Tiaong,San Isidro,13.942313,121.337235,1.6204908879818618,1.62,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,65.59583466814121,True,True,True,True,True,True
+447,Tiaong,San Isidro,13.939224,121.333493,1.6218309546540974,1.62,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,65.8001304042442,True,True,True,True,True,True
+94,Tiaong,Bukal,13.930341,121.295069,1.6260768616815084,1.63,Moderate,Moderate,Buffer Zone,Buffer Zone,57.9,67.48543435813522,True,True,True,True,True,True
+32,Tiaong,Anastacia,13.976788,121.359609,1.638548626324377,1.64,Moderate,Moderate,Buffer Zone,Buffer Zone,53.9,68.04654964671957,True,True,True,True,True,True
+430,Tiaong,San Isidro,13.940159,121.335319,1.6512553714303535,1.65,Moderate,Moderate,Buffer Zone,Buffer Zone,70.2,65.40096979644548,True,True,True,True,True,True
+44,Tiaong,Ayusan 1,13.955671,121.3109073,1.6544616097518583,1.65,Moderate,Moderate,Buffer Zone,Buffer Zone,63.8,66.96217517976761,True,True,True,True,True,True
+96,Tiaong,Bukal,13.933258,121.292091,1.6643921967765969,1.66,Moderate,Moderate,Buffer Zone,Buffer Zone,63.7,67.41080782778823,True,True,True,True,True,True
+46,Tiaong,Ayusan 1,13.955436,121.310587,1.6742119312367143,1.67,Moderate,Moderate,Buffer Zone,Buffer Zone,65.5,67.0271226276022,True,True,True,True,True,True
+189,Tiaong,Cabatang,13.96611,121.36604,1.6807705810738074,1.68,Moderate,Moderate,Buffer Zone,Buffer Zone,58.1,68.4691972741854,True,True,True,True,True,True
+159,Tiaong,Cabatang,13.96611,121.36604,1.6807705810738074,1.68,Moderate,Moderate,Buffer Zone,Buffer Zone,58.1,68.5441972741854,True,True,True,True,True,True
+175,Tiaong,Cabatang,13.96726,121.37137,1.692656934660979,1.69,Moderate,Moderate,Buffer Zone,Buffer Zone,53.9,68.60186300853744,True,True,True,True,True,True
+345,Tiaong,Paiisa,13.935368,121.355064,1.7088527868881243,1.71,Moderate,Moderate,Buffer Zone,Buffer Zone,58.7,72.97096946720892,True,True,True,True,True,True
+154,Tiaong,Cabatang,13.96817,121.36611,1.7210835062171608,1.72,Moderate,Moderate,Buffer Zone,Buffer Zone,54.2,68.44790759168467,True,True,True,True,True,True
+71,Tiaong,Behia,13.8968026,121.3348734,1.7224134282791739,1.72,Moderate,Moderate,Buffer Zone,Buffer Zone,68.6,72.03756648266663,True,True,True,True,True,True
+555,Tiaong,Tagbakin,13.9302833,121.3643083,1.7291637813706366,1.73,Moderate,Moderate,Buffer Zone,Buffer Zone,55.1,68.12259926692192,True,True,True,True,True,True
+421,Tiaong,San Isidro,13.939927,121.336373,1.7445099474428258,1.74,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,65.41497353976064,True,True,True,True,True,True
+153,Tiaong,Cabatang,13.968,121.36649,1.7575212095184087,1.76,Moderate,Moderate,Buffer Zone,Buffer Zone,54.2,68.35726927437035,True,True,True,True,True,True
+167,Tiaong,Cabatang,13.96527,121.36687,1.7657404411805224,1.77,Moderate,Moderate,Buffer Zone,Buffer Zone,54.3,68.3265328948631,True,True,True,True,True,True
+353,Tiaong,Paiisa,13.935168,121.356178,1.7715956072278378,1.77,Moderate,Moderate,Buffer Zone,Buffer Zone,59.4,73.31071952088017,True,True,True,True,True,True
+431,Tiaong,San Isidro,13.938582,121.335628,1.809664378298723,1.81,Moderate,Moderate,Buffer Zone,Buffer Zone,71.2,65.16995666142911,True,True,True,True,True,True
+510,Tiaong,San Juan,13.8923632,121.3662857,1.8252188071565454,1.83,Moderate,Moderate,Buffer Zone,Buffer Zone,56.4,64.42596164393495,True,True,True,True,True,True
+517,Tiaong,San Juan,13.8923632,121.3662857,1.8252188071565454,1.83,Moderate,Moderate,Buffer Zone,Buffer Zone,56.4,64.42596164393495,True,True,True,True,True,True
+520,Tiaong,San Juan,13.8923632,121.3662857,1.8252188071565454,1.83,Moderate,Moderate,Buffer Zone,Buffer Zone,57.7,64.44471164393495,True,True,True,True,True,True
+518,Tiaong,San Juan,13.8923632,121.3662857,1.8252188071565454,1.83,Moderate,Moderate,Buffer Zone,Buffer Zone,57.7,64.44471164393495,True,True,True,True,True,True
+511,Tiaong,San Juan,13.8923632,121.3662857,1.8252188071565454,1.83,Moderate,Moderate,Buffer Zone,Buffer Zone,56.4,64.42596164393495,True,True,True,True,True,True
+526,Tiaong,San Juan,13.8923632,121.3662857,1.8252188071565454,1.83,Moderate,Moderate,Buffer Zone,Buffer Zone,67.1,64.57596164393496,True,True,True,True,True,True
+514,Tiaong,San Juan,13.8923632,121.3662857,1.8252188071565454,1.83,Moderate,Moderate,Buffer Zone,Buffer Zone,56.4,64.42596164393495,True,True,True,True,True,True
+519,Tiaong,San Juan,13.8923632,121.3662857,1.8252188071565454,1.83,Moderate,Moderate,Buffer Zone,Buffer Zone,56.4,64.42596164393495,True,True,True,True,True,True
+524,Tiaong,San Juan,13.8923632,121.3662857,1.8252188071565454,1.83,Moderate,Moderate,Buffer Zone,Buffer Zone,63.4,64.46346164393495,True,True,True,True,True,True
+523,Tiaong,San Juan,13.8923632,121.3662857,1.8252188071565454,1.83,Moderate,Moderate,Buffer Zone,Buffer Zone,56.4,64.42596164393495,True,True,True,True,True,True
+522,Tiaong,San Juan,13.8923632,121.3662857,1.8252188071565454,1.83,Moderate,Moderate,Buffer Zone,Buffer Zone,56.4,64.42596164393495,True,True,True,True,True,True
+525,Tiaong,San Juan,13.8923632,121.3662857,1.8252188071565454,1.83,Moderate,Moderate,Buffer Zone,Buffer Zone,56.4,64.42596164393495,True,True,True,True,True,True
+521,Tiaong,San Juan,13.8923632,121.3662857,1.8252188071565454,1.83,Moderate,Moderate,Buffer Zone,Buffer Zone,57.7,64.44471164393495,True,True,True,True,True,True
+45,Tiaong,Ayusan 1,13.9571403,121.299809,1.8467486450589905,1.85,Moderate,Moderate,Buffer Zone,Buffer Zone,65.5,66.66300658661137,True,True,True,True,True,True
+408,Tiaong,San Agustin,13.928642,121.328912,1.8794876988764937,1.88,Moderate,Moderate,Buffer Zone,Buffer Zone,74.6,67.0077826249308,True,True,True,True,True,True
+60,Tiaong,Ayusan 2,13.9476068,121.2889781,1.8799709456934672,1.88,Moderate,Moderate,Buffer Zone,Buffer Zone,73.3,66.59468034900577,True,True,True,True,True,True
+589,Tiaong,Tamisian,13.91942,121.31181,1.889010870210428,1.89,Moderate,Moderate,Buffer Zone,Buffer Zone,61.6,67.23323892903056,True,True,True,True,True,True
+484,Tiaong,San Jose,13.932465,121.32948,1.8925081137564694,1.89,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,65.96932730678274,True,True,True,True,True,True
+173,Tiaong,Cabatang,13.96925,121.36759,1.9042374363949592,1.9,Moderate,Moderate,Buffer Zone,Buffer Zone,62.3,68.57455811017539,True,True,True,True,True,True
+133,Tiaong,Bula,13.9252882,121.2978027,1.9377017524007043,1.94,Moderate,Moderate,Buffer Zone,Buffer Zone,59.2,67.16223139250307,True,True,True,True,True,True
+358,Tiaong,Paiisa,13.932616,121.359343,1.9491004482605412,1.95,Moderate,Moderate,Buffer Zone,Buffer Zone,66.1,73.14560829437414,True,True,True,True,True,True
+469,Tiaong,San Jose,13.929777,121.330775,1.9570380044550226,1.96,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,66.06272121618069,True,True,True,True,True,True
+500,Tiaong,San Jose,13.930165,121.333254,1.9736215045882533,1.97,Moderate,Moderate,Buffer Zone,Buffer Zone,73.7,65.71978694515306,True,True,True,True,True,True
+184,Tiaong,Cabatang,13.96548,121.3688,1.9748198951835818,1.97,Moderate,Moderate,Buffer Zone,Buffer Zone,54.8,68.2091253577753,True,True,True,True,True,True
+136,Tiaong,Bula,13.9251349,121.2971642,1.9821471199996805,1.98,Moderate,Moderate,Buffer Zone,Buffer Zone,58.6,66.96616523142123,True,True,True,True,True,True
+130,Tiaong,Bula,13.9249162,121.2972982,1.9978029107388398,2.0,Moderate,Moderate,Buffer Zone,Buffer Zone,58.6,66.98083386992663,True,True,True,True,True,True
+460,Tiaong,San Jose,13.93029,121.3306,2.0161691424325277,2.02,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,65.67648830663016,True,True,True,True,True,True
+507,Tiaong,San Jose,13.932112,121.330877,2.048427140931724,2.05,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,65.68569539215217,True,True,True,True,True,True
+537,Tiaong,San Pedro,13.9713014,121.3074123,2.0979826165043494,2.1,Moderate,Moderate,Buffer Zone,Buffer Zone,61.1,63.67367289191476,True,True,True,True,True,True
+87,Tiaong,Behia,13.894511,121.326752,2.1132230211721477,2.11,Moderate,Moderate,Buffer Zone,Buffer Zone,73.6,66.44888582636439,True,True,True,True,True,True
+86,Tiaong,Behia,13.894433,121.326537,2.1297115210859268,2.13,Moderate,Moderate,Buffer Zone,Buffer Zone,75.0,66.44359009732347,True,True,True,True,True,True
+536,Tiaong,San Pedro,13.97155,121.30713,2.1320661177107905,2.13,Moderate,Moderate,Buffer Zone,Buffer Zone,68.1,63.73646778598871,True,True,True,True,True,True
+535,Tiaong,San Pedro,13.971146,121.307017,2.1380813322196324,2.14,Moderate,Moderate,Buffer Zone,Buffer Zone,68.5,63.746445598163305,True,True,True,True,True,True
+76,Tiaong,Behia,13.894044,121.326698,2.163574502429729,2.16,Moderate,Moderate,Buffer Zone,Buffer Zone,73.5,66.35670658286375,True,True,True,True,True,True
+89,Tiaong,Bukal,13.925269,121.293589,2.165637881958474,2.17,Moderate,Moderate,Buffer Zone,Buffer Zone,61.7,66.698574536898,True,True,True,True,True,True
+2,Tiaong,Anastacia,13.98449,121.348266,2.178564949684574,2.18,Moderate,Moderate,Buffer Zone,Buffer Zone,55.3,67.42777584181928,True,True,True,True,True,True
+344,Tiaong,Paiisa,13.9172539,121.3533899,2.1878919939752595,2.19,Moderate,Moderate,Buffer Zone,Buffer Zone,62.8,71.97237062354017,True,True,True,True,True,True
+352,Tiaong,Paiisa,13.9172539,121.3533899,2.1878919939752595,2.19,Moderate,Moderate,Buffer Zone,Buffer Zone,63.0,71.93487062354018,True,True,True,True,True,True
+355,Tiaong,Paiisa,13.9172539,121.3533899,2.1878919939752595,2.19,Moderate,Moderate,Buffer Zone,Buffer Zone,62.8,71.95362062354017,True,True,True,True,True,True
+351,Tiaong,Paiisa,13.9172539,121.3533899,2.1878919939752595,2.19,Moderate,Moderate,Buffer Zone,Buffer Zone,60.1,71.87862062354017,True,True,True,True,True,True
+350,Tiaong,Paiisa,13.9172539,121.3533899,2.1878919939752595,2.19,Moderate,Moderate,Buffer Zone,Buffer Zone,60.1,71.87862062354017,True,True,True,True,True,True
+348,Tiaong,Paiisa,13.9172539,121.3533899,2.1878919939752595,2.19,Moderate,Moderate,Buffer Zone,Buffer Zone,60.1,71.87862062354017,True,True,True,True,True,True
+349,Tiaong,Paiisa,13.9172539,121.3533899,2.1878919939752595,2.19,Moderate,Moderate,Buffer Zone,Buffer Zone,60.1,71.87862062354017,True,True,True,True,True,True
+333,Tiaong,Paiisa,13.9172539,121.3533899,2.1878919939752595,2.19,Moderate,Moderate,Buffer Zone,Buffer Zone,62.8,71.95362062354017,True,True,True,True,True,True
+335,Tiaong,Paiisa,13.9172539,121.3533899,2.1878919939752595,2.19,Moderate,Moderate,Buffer Zone,Buffer Zone,60.1,71.87862062354017,True,True,True,True,True,True
+336,Tiaong,Paiisa,13.9172539,121.3533899,2.1878919939752595,2.19,Moderate,Moderate,Buffer Zone,Buffer Zone,60.1,71.87862062354017,True,True,True,True,True,True
+347,Tiaong,Paiisa,13.9172539,121.3533899,2.1878919939752595,2.19,Moderate,Moderate,Buffer Zone,Buffer Zone,60.1,71.87862062354017,True,True,True,True,True,True
+346,Tiaong,Paiisa,13.9172539,121.3533899,2.1878919939752595,2.19,Moderate,Moderate,Buffer Zone,Buffer Zone,63.0,71.93487062354018,True,True,True,True,True,True
+339,Tiaong,Paiisa,13.9172539,121.3533899,2.1878919939752595,2.19,Moderate,Moderate,Buffer Zone,Buffer Zone,67.0,72.02862062354018,True,True,True,True,True,True
+340,Tiaong,Paiisa,13.9172539,121.3533899,2.1878919939752595,2.19,Moderate,Moderate,Buffer Zone,Buffer Zone,60.1,71.87862062354017,True,True,True,True,True,True
+338,Tiaong,Paiisa,13.9172539,121.3533899,2.1878919939752595,2.19,Moderate,Moderate,Buffer Zone,Buffer Zone,60.1,71.89737062354018,True,True,True,True,True,True
+334,Tiaong,Paiisa,13.9172886,121.3534316,2.1932134994150245,2.19,Moderate,Moderate,Buffer Zone,Buffer Zone,63.1,71.98336009477386,True,True,True,True,True,True
+529,Tiaong,San Pedro,13.9677233,121.306336,2.197576988971253,2.2,Moderate,Moderate,Buffer Zone,Buffer Zone,63.5,63.603431098733864,True,True,True,True,True,True
+341,Tiaong,Paiisa,13.914165,121.354314,2.228211376810035,2.23,Moderate,Moderate,Buffer Zone,Buffer Zone,54.9,71.8198215235728,True,True,True,True,True,True
+100,Tiaong,Bukal,13.927783,121.289475,2.25567143407932,2.26,Moderate,Moderate,Buffer Zone,Buffer Zone,63.2,66.71727560672176,True,True,True,True,True,True
+90,Tiaong,Bukal,13.926166,121.290263,2.3180779731293883,2.32,Moderate,Moderate,Buffer Zone,Buffer Zone,58.9,66.51376607060708,True,True,True,True,True,True
+356,Tiaong,Paiisa,13.918008,121.35451,2.32644523386619,2.33,Moderate,Moderate,Buffer Zone,Buffer Zone,57.4,71.67656381536591,True,True,True,True,True,True
+357,Tiaong,Paiisa,13.904885,121.354349,2.3706755236141728,2.37,Moderate,Moderate,Buffer Zone,Buffer Zone,56.9,69.11206130948344,True,True,True,True,True,True
+354,Tiaong,Paiisa,13.916391,121.355387,2.3776884659265654,2.38,Moderate,Moderate,Buffer Zone,Buffer Zone,61.0,71.63933410194453,True,True,True,True,True,True
+337,Tiaong,Paiisa,13.907187,121.35611,2.4794020553326797,2.48,Moderate,Moderate,Buffer Zone,Buffer Zone,54.9,71.4535017840606,True,True,True,True,True,True
+515,Tiaong,San Juan,13.90449,121.35635,2.588868557798915,2.59,Moderate,Moderate,Buffer Zone,Buffer Zone,57.8,63.331055757581495,True,True,True,True,True,True
+527,Tiaong,San Pedro,13.973935,121.303245,2.5936739994786726,2.59,Moderate,Moderate,Buffer Zone,Buffer Zone,68.7,62.9695396250772,True,True,True,True,True,True
+533,Tiaong,San Pedro,13.973935,121.303245,2.5936739994786726,2.59,Moderate,Moderate,Buffer Zone,Buffer Zone,71.3,63.00703962507721,True,True,True,True,True,True
+534,Tiaong,San Pedro,13.973935,121.303245,2.5936739994786726,2.59,Moderate,Moderate,Buffer Zone,Buffer Zone,71.3,63.00703962507721,True,True,True,True,True,True
+532,Tiaong,San Pedro,13.973935,121.303245,2.5936739994786726,2.59,Moderate,Moderate,Buffer Zone,Buffer Zone,74.7,63.11953962507721,True,True,True,True,True,True
+546,Tiaong,Tagbakin,13.921523,121.362317,2.657795732279542,2.66,Moderate,Moderate,Buffer Zone,Buffer Zone,55.9,66.9183443385131,True,True,True,True,True,True
+112,Tiaong,Bukal,13.923378,121.288155,2.6988015429917844,2.7,Moderate,Moderate,Buffer Zone,Buffer Zone,64.8,65.88354419789108,True,True,True,True,True,True
+111,Tiaong,Bukal,13.923378,121.288155,2.6988015429917844,2.7,Moderate,Moderate,Buffer Zone,Buffer Zone,64.8,65.88354419789108,True,True,True,True,True,True
+109,Tiaong,Bukal,13.923378,121.288155,2.6988015429917844,2.7,Moderate,Moderate,Buffer Zone,Buffer Zone,65.9,65.93979419789108,True,True,True,True,True,True
+107,Tiaong,Bukal,13.923378,121.288155,2.6988015429917844,2.7,Moderate,Moderate,Buffer Zone,Buffer Zone,64.8,65.88354419789108,True,True,True,True,True,True
+98,Tiaong,Bukal,13.923378,121.288155,2.6988015429917844,2.7,Moderate,Moderate,Buffer Zone,Buffer Zone,64.8,65.88354419789108,True,True,True,True,True,True
+101,Tiaong,Bukal,13.923378,121.288155,2.6988015429917844,2.7,Moderate,Moderate,Buffer Zone,Buffer Zone,64.8,65.88354419789108,True,True,True,True,True,True
+99,Tiaong,Bukal,13.923378,121.288155,2.6988015429917844,2.7,Moderate,Moderate,Buffer Zone,Buffer Zone,64.8,65.88354419789108,True,True,True,True,True,True
+88,Tiaong,Bukal,13.923378,121.288155,2.6988015429917844,2.7,Moderate,Moderate,Buffer Zone,Buffer Zone,64.8,70.95854419789109,True,True,True,True,True,True
+91,Tiaong,Bukal,13.923378,121.288155,2.6988015429917844,2.7,Moderate,Moderate,Buffer Zone,Buffer Zone,65.9,65.93979419789108,True,True,True,True,True,True
+92,Tiaong,Bukal,13.923378,121.288155,2.6988015429917844,2.7,Moderate,Moderate,Buffer Zone,Buffer Zone,64.8,65.88354419789108,True,True,True,True,True,True
+103,Tiaong,Bukal,13.923378,121.288155,2.6988015429917844,2.7,Moderate,Moderate,Buffer Zone,Buffer Zone,74.3,66.29604419789108,True,True,True,True,True,True
+97,Tiaong,Bukal,13.923378,121.288155,2.6988015429917844,2.7,Moderate,Moderate,Buffer Zone,Buffer Zone,64.8,65.90229419789108,True,True,True,True,True,True
+95,Tiaong,Bukal,13.923378,121.288155,2.6988015429917844,2.7,Moderate,Moderate,Buffer Zone,Buffer Zone,64.8,65.88354419789108,True,True,True,True,True,True
+102,Tiaong,Bukal,13.923378,121.288155,2.6988015429917844,2.7,Moderate,Moderate,Buffer Zone,Buffer Zone,66.5,66.07104419789107,True,True,True,True,True,True
+108,Tiaong,Bukal,13.923378,121.288155,2.6988015429917844,2.7,Moderate,Moderate,Buffer Zone,Buffer Zone,64.8,65.88354419789108,True,True,True,True,True,True
+105,Tiaong,Bukal,13.923378,121.288155,2.6988015429917844,2.7,Moderate,Moderate,Buffer Zone,Buffer Zone,64.8,65.88354419789108,True,True,True,True,True,True
+106,Tiaong,Bukal,13.923378,121.288155,2.6988015429917844,2.7,Moderate,Moderate,Buffer Zone,Buffer Zone,65.9,65.92104419789108,True,True,True,True,True,True
+110,Tiaong,Bukal,13.923378,121.288155,2.6988015429917844,2.7,Moderate,Moderate,Buffer Zone,Buffer Zone,65.9,65.92104419789108,True,True,True,True,True,True
+516,Tiaong,San Juan,13.89936,121.36041,2.748563197152181,2.75,Moderate,Moderate,Buffer Zone,Buffer Zone,54.4,63.098167741857985,True,True,True,True,True,True
+513,Tiaong,San Juan,13.8986,121.3553,2.778025479272328,2.78,Moderate,Moderate,Buffer Zone,Buffer Zone,62.5,63.2052019137661,True,True,True,True,True,True
+543,Tiaong,Tagbakin,13.901394,121.369415,2.7900031639173832,2.79,Moderate,Moderate,Buffer Zone,Buffer Zone,61.6,70.30054183404124,True,True,True,True,True,True
+413,Tiaong,San Francisco,13.886491,121.345726,2.8165283026416703,2.82,Moderate,Moderate,Buffer Zone,Buffer Zone,70.9,63.449871635150295,True,True,True,True,True,True
+544,Tiaong,Tagbakin,13.913188,121.359854,2.8193052506182292,2.82,Moderate,Moderate,Buffer Zone,Buffer Zone,55.9,66.47655962426919,True,True,True,True,True,True
+566,Tiaong,Tagbakin,13.918259,121.362859,2.953784692391402,2.95,Moderate,Moderate,Buffer Zone,Buffer Zone,55.9,66.28044377168331,True,True,True,True,True,True
+538,Tiaong,Tagbakin,13.91842,121.3605,2.9649758260781605,2.96,Moderate,Moderate,Buffer Zone,Buffer Zone,67.0,66.52662336839012,True,True,True,True,True,True
+547,Tiaong,Tagbakin,13.91842,121.3605,2.9649758260781605,2.96,Moderate,Moderate,Buffer Zone,Buffer Zone,64.0,66.50787336839011,True,True,True,True,True,True
+553,Tiaong,Tagbakin,13.91842,121.3605,2.9649758260781605,2.96,Moderate,Moderate,Buffer Zone,Buffer Zone,60.7,66.26412336839012,True,True,True,True,True,True
+556,Tiaong,Tagbakin,13.91842,121.3605,2.9649758260781605,2.96,Moderate,Moderate,Buffer Zone,Buffer Zone,60.7,66.26412336839012,True,True,True,True,True,True
+568,Tiaong,Tagbakin,13.91842,121.3605,2.9649758260781605,2.96,Moderate,Moderate,Buffer Zone,Buffer Zone,62.0,66.35787336839012,True,True,True,True,True,True
+558,Tiaong,Tagbakin,13.91842,121.3605,2.9649758260781605,2.96,Moderate,Moderate,Buffer Zone,Buffer Zone,60.7,66.26412336839012,True,True,True,True,True,True
+559,Tiaong,Tagbakin,13.91842,121.3605,2.9649758260781605,2.96,Moderate,Moderate,Buffer Zone,Buffer Zone,60.7,66.24537336839012,True,True,True,True,True,True
+542,Tiaong,Tagbakin,13.91842,121.3605,2.9649758260781605,2.96,Moderate,Moderate,Buffer Zone,Buffer Zone,60.7,66.26412336839012,True,True,True,True,True,True
+551,Tiaong,Tagbakin,13.91842,121.3605,2.9649758260781605,2.96,Moderate,Moderate,Buffer Zone,Buffer Zone,60.7,66.24537336839012,True,True,True,True,True,True
+567,Tiaong,Tagbakin,13.91842,121.3605,2.9649758260781605,2.96,Moderate,Moderate,Buffer Zone,Buffer Zone,71.8,66.90162336839012,True,True,True,True,True,True
+565,Tiaong,Tagbakin,13.91842,121.3605,2.9649758260781605,2.96,Moderate,Moderate,Buffer Zone,Buffer Zone,62.6,66.39537336839011,True,True,True,True,True,True
+571,Tiaong,Tagbakin,13.91842,121.3605,2.9649758260781605,2.96,Moderate,Moderate,Buffer Zone,Buffer Zone,60.7,66.22662336839011,True,True,True,True,True,True
+557,Tiaong,Tagbakin,13.91842,121.3605,2.9649758260781605,2.96,Moderate,Moderate,Buffer Zone,Buffer Zone,62.6,66.45162336839012,True,True,True,True,True,True
+564,Tiaong,Tagbakin,13.91842,121.3605,2.9649758260781605,2.96,Moderate,Moderate,Buffer Zone,Buffer Zone,64.0,66.50787336839011,True,True,True,True,True,True
+561,Tiaong,Tagbakin,13.91842,121.3605,2.9649758260781605,2.96,Moderate,Moderate,Buffer Zone,Buffer Zone,62.0,66.28287336839011,True,True,True,True,True,True
+570,Tiaong,Tagbakin,13.91842,121.3605,2.9649758260781605,2.96,Moderate,Moderate,Buffer Zone,Buffer Zone,60.7,66.24537336839012,True,True,True,True,True,True
+569,Tiaong,Tagbakin,13.91842,121.3605,2.9649758260781605,2.96,Moderate,Moderate,Buffer Zone,Buffer Zone,62.6,66.37662336839011,True,True,True,True,True,True
+530,Tiaong,San Pedro,13.96877,121.29918,2.9679910341822917,2.97,Moderate,Moderate,Buffer Zone,Buffer Zone,72.0,62.76116061613443,True,True,True,True,True,True
+560,Tiaong,Tagbakin,13.918154,121.360602,2.969192935918484,2.97,Moderate,Moderate,Buffer Zone,Buffer Zone,66.6,66.55797341653964,True,True,True,True,True,True
+541,Tiaong,Tagbakin,13.91741,121.36104,2.9989254090267172,3.0,Moderate,Moderate,Buffer Zone,Buffer Zone,54.7,66.19586355992347,True,True,True,True,True,True
+531,Tiaong,San Pedro,13.968344,121.298864,3.0024241991129648,3.0,Moderate,Moderate,Buffer Zone,Buffer Zone,72.0,62.71094558394387,True,True,True,True,True,True
+554,Tiaong,Tagbakin,13.903821,121.3696349,3.058499077566227,3.06,Moderate,Moderate,Buffer Zone,Buffer Zone,54.1,64.62773529330335,True,True,True,True,True,True
+545,Tiaong,Tagbakin,13.903886,121.370432,3.0671617069280215,3.07,Moderate,Moderate,Buffer Zone,Buffer Zone,63.3,64.95260229215073,True,True,True,True,True,True
+562,Tiaong,Tagbakin,13.91673,121.36189,3.076427641254746,3.08,Moderate,Moderate,Buffer Zone,Buffer Zone,54.7,66.08283947125759,True,True,True,True,True,True
+550,Tiaong,Tagbakin,13.914243,121.362474,3.1080547022076677,3.11,Moderate,Moderate,Buffer Zone,Buffer Zone,55.9,66.05546667403459,True,True,True,True,True,True
+540,Tiaong,Tagbakin,13.91641667,121.362295,3.1144404252140663,3.11,Moderate,Moderate,Buffer Zone,Buffer Zone,55.9,66.02740416131692,True,True,True,True,True,True
+549,Tiaong,Tagbakin,13.91481,121.36267,3.13404407557965,3.13,Moderate,Moderate,Buffer Zone,Buffer Zone,55.6,66.03631550453377,True,True,True,True,True,True
+552,Tiaong,Tagbakin,13.91501333,121.36582167,3.1773938682284317,3.18,Moderate,Moderate,Buffer Zone,Buffer Zone,55.9,65.99184705692096,True,True,True,True,True,True
+548,Tiaong,Tagbakin,13.911596,121.364085,3.276014146747843,3.28,Moderate,Moderate,Buffer Zone,Buffer Zone,54.7,65.9792758174135,True,True,True,True,True,True
+539,Tiaong,Tagbakin,13.90806,121.365343,3.443601930253186,3.44,Moderate,Moderate,Buffer Zone,Buffer Zone,55.9,65.54737696646819,True,True,True,True,True,True
+64,Tiaong,Aquino,13.97221,121.29292,3.664715374170486,3.66,Moderate,Moderate,Buffer Zone,Buffer Zone,71.4,61.36293215583744,True,True,True,True,True,True
+65,Tiaong,Aquino,13.97221,121.29292,3.664715374170486,3.66,Moderate,Moderate,Buffer Zone,Buffer Zone,66.7,61.23168215583744,True,True,True,True,True,True
+62,Tiaong,Aquino,13.97221,121.29292,3.664715374170486,3.66,Moderate,Moderate,Buffer Zone,Buffer Zone,71.4,61.36293215583744,True,True,True,True,True,True
+63,Tiaong,Aquino,13.97221,121.29292,3.664715374170486,3.66,Moderate,Moderate,Buffer Zone,Buffer Zone,66.7,61.23168215583744,True,True,True,True,True,True
+104,Tiaong,Bukal,13.918632,121.278653,3.802516658344871,3.8,Moderate,Moderate,Buffer Zone,Buffer Zone,58.8,64.29270965466783,True,True,True,True,True,True
+66,Tiaong,Aquino,13.9705979,121.2747911,4.611557666723833,4.61,Moderate,Moderate,Buffer Zone,Buffer Zone,65.4,59.81337047919715,True,True,True,True,True,True
+93,Tiaong,Bukal,13.930068,121.21161,10.181185148248318,10.18,Low,Low,Protected/Free Zone,Protected/Free Zone,10.2,13.921328863574777,True,True,True,True,True,True
+642,Sariaya,Sto. Cristo,13.9423,121.4934,10.693437067981053,10.69,Low,Low,Protected/Free Zone,Protected/Free Zone,1.9,14.660605723346357,True,True,True,True,True,True
+641,Sariaya,Sto. Cristo,13.9423,121.4934,10.693437067981053,10.69,Low,Low,Protected/Free Zone,Protected/Free Zone,1.9,14.65445818236275,True,True,True,True,True,True
+643,Sariaya,Sto. Cristo,13.94139,121.49361,10.729986876277726,10.73,Low,Low,Protected/Free Zone,Protected/Free Zone,1.9,14.962856354420802,True,True,True,True,True,True
+187,Tiaong,Cabatang,13.5827,121.286,31.436822438915616,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,9.82893279640524,False,False,False,False,True,False
+209,Tiaong,Del Rosario,13.504984,121.23992,41.282060043493686,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,6.006946906469363,False,False,False,False,True,False
+636,Tiaong,Talisay,13.577031,122.3131967,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,4.372131147540983,False,False,False,False,True,False
+512,Tiaong,San Juan,13.89394,13.36675,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,4.454405737704918,False,False,False,False,True,False
+637,Tiaong,Talisay,13.445612,121.058702,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,9.938422131147542,False,False,False,False,True,False
+638,Tiaong,Talisay,13.445612,121.058702,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,9.999897540983607,False,False,False,False,True,False
+634,Tiaong,Talisay,13.15277,121.171495,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,9.697950819672132,False,False,False,False,True,False
+635,Tiaong,Talisay,13.15277,121.273495,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,9.724590163934426,False,False,False,False,True,False
+315,Tiaong,Lusacan,13.346305,121.950342,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,6.0147540983606556,False,False,False,False,True,False
+563,Tiaong,Tagbakin,13.91868,121.91868,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,6.167213114754098,False,False,False,False,True,False
+74,Tiaong,Behia,13.895261,121.895261,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,5.0535860655737705,False,False,False,False,True,False
+84,Tiaong,Behia,13.909518,121.909518,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,5.0535860655737705,False,False,False,False,True,False
+85,Tiaong,Behia,13.895261,121.895261,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,5.07233606557377,False,False,False,False,True,False
+80,Tiaong,Behia,13.895261,121.895261,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,5.0535860655737705,False,False,False,False,True,False
+583,Tiaong,Tamisian,13.30608,121.93178,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,5.117213114754098,False,False,False,False,True,False
+593,Tiaong,Tamisian,13.93608,121.93608,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,5.398463114754098,False,False,False,False,True,False
+73,Tiaong,Behia,13.895261,121.895261,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,5.20358606557377,False,False,False,False,True,False
+69,Tiaong,Behia,13.895261,121.895261,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,5.20358606557377,False,False,False,False,True,False
+83,Tiaong,Behia,13.895261,121.895261,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,5.0535860655737705,False,False,False,False,True,False
+67,Tiaong,Behia,13.895261,121.895261,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,5.0535860655737705,False,False,False,False,True,False
+68,Tiaong,Behia,13.895261,121.895261,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,5.0535860655737705,False,False,False,False,True,False
+72,Tiaong,Behia,13.895261,121.895261,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,5.0535860655737705,False,False,False,False,True,False
+644,Candelaria,Masin,13.9382,13.9382,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,6.956147540983607,False,False,False,False,True,False

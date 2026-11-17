@@ -1,0 +1,24 @@
+id,municipality,barangay,lat,lon,exp_km,nearest_case_km,risk_level,exp_level,zoning,exp_zone,risk_score,exp_score_rule,level_ok,zone_ok,dist_ok,band_ok,outbreak_ok,score_ok
+67,Tiaong,Behia,13.895261,121.895261,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,5.0535860655737705,False,False,False,False,True,False
+68,Tiaong,Behia,13.895261,121.895261,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,5.0535860655737705,False,False,False,False,True,False
+69,Tiaong,Behia,13.895261,121.895261,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,5.20358606557377,False,False,False,False,True,False
+72,Tiaong,Behia,13.895261,121.895261,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,5.0535860655737705,False,False,False,False,True,False
+73,Tiaong,Behia,13.895261,121.895261,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,5.20358606557377,False,False,False,False,True,False
+74,Tiaong,Behia,13.895261,121.895261,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,5.0535860655737705,False,False,False,False,True,False
+80,Tiaong,Behia,13.895261,121.895261,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,5.0535860655737705,False,False,False,False,True,False
+83,Tiaong,Behia,13.895261,121.895261,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,5.0535860655737705,False,False,False,False,True,False
+84,Tiaong,Behia,13.909518,121.909518,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,5.0535860655737705,False,False,False,False,True,False
+85,Tiaong,Behia,13.895261,121.895261,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,5.07233606557377,False,False,False,False,True,False
+187,Tiaong,Cabatang,13.5827,121.286,31.436822438915616,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,9.82893279640524,False,False,False,False,True,False
+209,Tiaong,Del Rosario,13.504984,121.23992,41.282060043493686,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,6.006946906469363,False,False,False,False,True,False
+315,Tiaong,Lusacan,13.346305,121.950342,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,6.0147540983606556,False,False,False,False,True,False
+512,Tiaong,San Juan,13.89394,13.36675,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,4.454405737704918,False,False,False,False,True,False
+563,Tiaong,Tagbakin,13.91868,121.91868,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,6.167213114754098,False,False,False,False,True,False
+583,Tiaong,Tamisian,13.30608,121.93178,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,5.117213114754098,False,False,False,False,True,False
+593,Tiaong,Tamisian,13.93608,121.93608,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,5.398463114754098,False,False,False,False,True,False
+634,Tiaong,Talisay,13.15277,121.171495,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,9.697950819672132,False,False,False,False,True,False
+635,Tiaong,Talisay,13.15277,121.273495,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,9.724590163934426,False,False,False,False,True,False
+636,Tiaong,Talisay,13.577031,122.3131967,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,4.372131147540983,False,False,False,False,True,False
+637,Tiaong,Talisay,13.445612,121.058702,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,9.938422131147542,False,False,False,False,True,False
+638,Tiaong,Talisay,13.445612,121.058702,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,9.999897540983607,False,False,False,False,True,False
+644,Candelaria,Masin,13.9382,13.9382,50.0,,Unverified,Low,Unverified (check coordinates),Protected/Free Zone,,6.956147540983607,False,False,False,False,True,False

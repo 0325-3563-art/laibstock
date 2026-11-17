@@ -1,0 +1,148 @@
+.registry-container {
+  max-width: 1200px;   /* same as header */
+  margin: 0 auto;      /* center horizontally */
+  padding: 2rem;
+  background-color: #f9fafb;
+  color: #064e3b;
+  display: flex;
+  flex-direction: column;
+}
+
+.registry-container h2 {
+  color: #064e3b;
+  margin-bottom: 1rem;
+}
+.registry-table {
+  width: 100%;             /* fill container, not full page */
+  border-collapse: collapse;
+  background-color: white;
+  table-layout: fixed;     /* ensures equal column widths */
+}
+.registry-table th {
+  background-color: #064e3b;
+  color: white;
+  padding: 0.3rem;
+  font-size: 0.65rem;   /* slightly smaller header text */
+}
+
+.registry-table td {
+  border: 1px solid #d1d5db;
+  padding: 0.5rem;
+  text-align: center;
+  font-size: 0.7rem;  /* smaller table content */
+}
+.upload-section {
+  margin-bottom: 2rem;
+}
+
+.upload-section h3 {
+  color: #064e3b;
+}
+
+.registry-form {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.75rem;
+  margin-bottom: 2rem;
+}
+
+.registry-form input,
+.registry-form select {
+  padding: 0.5rem;
+  border: 1px solid #d1d5db;
+  border-radius: 4px;
+}
+
+.registry-form button {
+  grid-column: span 2;
+  padding: 0.75rem;
+  background-color: #064e3b;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.registry-form button:hover {
+  background-color: #046c4e;
+}
+
+.registry-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.registry-table th {
+  background-color: #064e3b;
+  color: white;
+  padding: 0.5rem;
+}
+
+.registry-table td {
+  border: 1px solid #d1d5db;
+  padding: 0.5rem;
+  text-align: center;
+}
+.upload-section button {
+  padding: 0.75rem 1.5rem;
+  background-color: #064e3b; /* dark green */
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.upload-section button:hover {
+  background-color: #046c4e; /* lighter green on hover */
+}
+
+/* File input styling */
+.upload-section input[type="file"] {
+  padding: 0.5rem;
+  border: 1px solid #d1d5db;
+  border-radius: 4px;
+}
+.radio-group {
+  display: flex;
+  gap: 10px; /* space between each radio */
+  margin-top: 5px;
+}
+
+.radio-option {
+  display: flex;
+  align-items: center;
+  gap: 5px; /* space between circle and label text */
+}
+.filter-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;   /* centers horizontally */
+  margin-top: 20px;
+}
+
+.filter-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;       /* centers heading + controls */
+  max-width: 600px;          /* optional: limit width so it doesn’t stretch */
+}
+
+.filter-controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  margin-top: 10px;
+}
+
+.entry-toggle {
+  display: block;        /* ensure it starts on a new line */
+  margin-top: 0.5rem;    /* small spacing below heading */
+  margin-bottom: 1rem;   /* spacing before inputs */
+}
+
+.entry-toggle label {
+  margin-right: 1rem;    /* space between radio options */
+  font-weight: 500;      /* make labels clearer */
+}
