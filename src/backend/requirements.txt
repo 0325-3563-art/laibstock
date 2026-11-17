@@ -41,7 +41,7 @@ pyproj==3.8.0
 python-dateutil==2.9.0.post0
 python-dotenv==1.2.4
 python-multipart==0.0.32
-pywin32==311
+#pywin32==311
 requests==2.34.2
 scikit-learn==1.9.0
 scipy==1.18.0
